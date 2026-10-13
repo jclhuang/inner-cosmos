@@ -13,7 +13,7 @@ view.innerHTML=`<div class="daynav"><button id="prev" ${n<=1?'disabled':''}>‹ 
 <div class="card"><h3>白話</h3>${esc(d.plain)}</div>
 <div class="card sci"><h3>科學對照・${esc(d.science.field)}</h3>${esc(d.science.text)}<div class="ref">參考：${esc(d.science.ref)}</div><div class="ref">※ 這是供思考的對照與類比，並非「科學證明佛法」。</div></div>
 <div class="card"><h3>今日一問</h3><div class="q">${esc(d.question)}</div><textarea id="note" placeholder="寫下你的一句心得…">${esc(notes[n]||'')}</textarea><button class="btn" id="save">儲存心得</button><button class="btn ghost" id="share">分享</button></div>
-<div class="card"><h3>相關概念</h3>${chips(d.nodes)}</div>`;
+<div class="card"><h3>相關概念</h3>${chips(d.nodes)}</div>${latestHTML()}`;
 prev.onclick=()=>go('day',n-1);next.onclick=()=>go('day',n+1);
 save.onclick=()=>{const v=note.value.trim(),o=store.get('notes')||{};if(v)o[n]=v;else delete o[n];store.set('notes',o);toast('已儲存在這台裝置')};
 share.onclick=async()=>{const txt=`${d.quote}\n——${d.source}\n\n${d.question}\n\n${CFG.name}`;const data={title:CFG.name,text:txt,url:location.href.split('#')[0]};
@@ -43,6 +43,8 @@ window.addEventListener('hashchange',route);
 const J=u=>fetch(u).then(r=>r.json());Promise.all([J('data/days.json'),J('data/map.json'),J('data/qa.json'),J('data/videos.json'),J('data/meditation.json')]).then(([d,m,q,v,md])=>{DAYS=d;MAP=m;QA=q;VIDS=v.videos;MED=md;buildIndex();route()});
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
 
+function latestHTML(){const L=VIDS.filter(v=>v.published).sort((a,b)=>b.published.localeCompare(a.published)).slice(0,5);if(!L.length)return'';
+return `<div class="card"><h3>最新影片・${esc(CFG.channelName)}</h3><div class="vrow">${L.map(v=>`<a class="vcard" href="${v.url}" target="_blank" rel="noopener"><img loading="lazy" src="${v.thumbnail}" alt=""><span>${esc(v.title.replace(/#\S+/g,'').trim())}</span><small>${v.published.slice(0,10)}${v.type==='short'?'・Shorts':''}</small></a>`).join('')}</div><a class="vlink" href="${CFG.channel}" target="_blank" rel="noopener">看全部影片 ›</a></div>`}
 /* ===== 智慧問答（離線檢索；未來可在 answerBackend 換成 LLM） ===== */
 const SYN=[["人工智慧","ai"],["人工智能","ai"],["chatgpt","ai"],["機器人","ai"],["打坐","冥想"],["禪修","冥想"],["靜坐","冥想"],["坐禪","冥想"],["多元宇宙","平行宇宙"],["多重宇宙","平行宇宙"],["平行世界","平行宇宙"],["轉世","輪迴"],["投胎","輪迴"],["業力","業"],["死後","死亡"],["往生","死亡"],["焦躁","焦慮"],["緊張","焦慮"],["發脾氣","生氣"],["憤怒","生氣"],["靈魂","意識"],["腦袋","大腦"],["量子力學","量子"],["空性","空"]];
 let IDX=[];
@@ -69,7 +71,7 @@ const n=e.ref;return `<div class="ans"><div class="ans-q">知識地圖：${esc(n
 const SUGG=["佛教怎麼看平行宇宙？","AI 有沒有心？","量子糾纏是不是證明了緣起？","靜坐真的能減輕焦慮嗎？","輪迴存在嗎？","時間是什麼？","有自由意志嗎？","大爆炸之前是什麼？"];
 let CHAT=[];
 function renderQA(){view.innerHTML=`<div class="card note">💬 <b>智慧問答</b>：答案只來自本 App 整理過的經文與科學資料（共 ${QA.length} 題＋每日一偈＋知識地圖），不是即時生成的 AI，也可能沒整理到你的問題。</div>
-<div id="chat"></div><div class="chips" id="sugg">${SUGG.map(q=>`<button class="chip" data-ask="${esc(q)}">${esc(q)}</button>`).join('')}</div>
+${latestHTML()}<div id="chat"></div><div class="chips" id="sugg">${SUGG.map(q=>`<button class="chip" data-ask="${esc(q)}">${esc(q)}</button>`).join('')}</div>
 <form id="askf" class="askbar"><input id="askin" placeholder="輸入你的問題，例如：AI 有佛性嗎？" autocomplete="off"><button class="btn">問</button></form>`;
 drawChat();askf.onsubmit=e=>{e.preventDefault();const v=askin.value.trim();if(v){ask(v);askin.value=''}}}
 function ask(q){const r=search(q),top=r[0];let html;
