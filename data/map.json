@@ -17,8 +17,10 @@
     27,
     31
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/xvxV-18PgRE",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "空性",
+   "videoId": "xvxV-18PgRE"
   },
   {
    "id": "yuanqi",
@@ -33,7 +35,9 @@
     18
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "緣起",
+   "videoId": ""
   },
   {
    "id": "wuwo",
@@ -47,8 +51,10 @@
     21,
     26
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/5wHHnzMi6vA",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "無我",
+   "videoId": "5wHHnzMi6vA"
   },
   {
    "id": "wuchang",
@@ -63,7 +69,9 @@
     21
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "無常",
+   "videoId": ""
   },
   {
    "id": "weishi",
@@ -79,8 +87,10 @@
     24,
     25
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/gAvjRW0_2vs",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "唯識",
+   "videoId": "gAvjRW0_2vs"
   },
   {
    "id": "indra",
@@ -94,8 +104,10 @@
     15,
     30
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/watch?v=5x14KuavxiM",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "因陀羅網",
+   "videoId": "5x14KuavxiM"
   },
   {
    "id": "cibei",
@@ -110,8 +122,10 @@
     29,
     30
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/jnHV5fm3HeI",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "慈悲",
+   "videoId": "jnHV5fm3HeI"
   },
   {
    "id": "zhengnian",
@@ -126,8 +140,10 @@
     22,
     23
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/watch?v=UESypItvPhM",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "正念",
+   "videoId": "UESypItvPhM"
   },
   {
    "id": "entangle",
@@ -140,8 +156,10 @@
     5,
     18
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/watch?v=zXUANAnZ52M",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "量子糾纏",
+   "videoId": "zXUANAnZ52M"
   },
   {
    "id": "observer",
@@ -155,8 +173,10 @@
     27,
     28
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/N90PV0fWdHE",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "觀測者",
+   "videoId": "N90PV0fWdHE"
   },
   {
    "id": "holo",
@@ -170,7 +190,9 @@
     15
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "全像原理",
+   "videoId": ""
   },
   {
    "id": "emergence",
@@ -185,7 +207,9 @@
     25
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "湧現",
+   "videoId": ""
   },
   {
    "id": "selfmodel",
@@ -199,8 +223,10 @@
     17,
     19
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/anSl5HBR2yA",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "自我模型",
+   "videoId": "anSl5HBR2yA"
   },
   {
    "id": "plastic",
@@ -216,8 +242,10 @@
     20,
     22
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/CJtAipixZUs",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "可塑性",
+   "videoId": "CJtAipixZUs"
   },
   {
    "id": "align",
@@ -234,7 +262,9 @@
     29
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "AI對齊",
+   "videoId": ""
   },
   {
    "id": "entropy",
@@ -249,7 +279,9 @@
     6
    ],
    "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "熵",
+   "videoId": ""
   },
   {
    "id": "consciousness",
@@ -264,8 +296,10 @@
     24,
     31
    ],
-   "youtube": "",
-   "youtubeNote": "（請填入相關影片網址）"
+   "youtube": "https://www.youtube.com/shorts/IRIYPKDdqyg",
+   "youtubeNote": "（請填入相關影片網址）",
+   "short": "意識",
+   "videoId": "IRIYPKDdqyg"
   }
  ],
  "edges": [

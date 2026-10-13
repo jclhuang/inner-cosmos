@@ -1,0 +1,1474 @@
+[
+ {
+  "id": "parallel",
+  "question": "佛教怎麼看平行宇宙？",
+  "keywords": [
+   "平行宇宙",
+   "多重宇宙",
+   "多元宇宙",
+   "三千大千世界",
+   "其他世界",
+   "多世界"
+  ],
+  "buddhist": {
+   "text": "佛典描述「三千大千世界」與無量佛剎，華嚴更說一微塵中有無數世界，強調世界無量且相互含攝。這是修行與觀照的宇宙觀，不是天文學理論。",
+   "quote": "一塵中有塵數剎，一一剎有難思佛。",
+   "ref": "《華嚴經》普賢行願品（四十華嚴）卷四十",
+   "cbeta": "T10n0293"
+  },
+  "science": {
+   "text": "物理學中「多重宇宙」有多種版本（量子力學的多世界詮釋、宇宙暴脹的泡泡宇宙、弦論景觀），目前都沒有直接觀測證據。",
+   "source": "Everett (1957) 多世界詮釋；Tegmark, Scientific American (2003)",
+   "consensus": "沒有共識：多重宇宙仍是理論推測，物理學界意見分歧。"
+  },
+  "nodes": [
+   "indra",
+   "holo"
+  ],
+  "days": [
+   15,
+   14
+  ],
+  "videos": [
+   "5x14KuavxiM",
+   "x44qkTgx9wA"
+  ]
+ },
+ {
+  "id": "mustard",
+  "question": "芥子怎麼裝得下須彌山？和高維空間有關嗎？",
+  "keywords": [
+   "芥子",
+   "須彌",
+   "高維",
+   "維度",
+   "維度空間",
+   "不可思議"
+  ],
+  "buddhist": {
+   "text": "維摩詰經講「不可思議解脫」：須彌山放入芥子而無所增減，用來打破大小、內外的固定概念。",
+   "quote": "以須彌之高廣內芥子中無所增減，須彌山王本相如故。",
+   "ref": "《維摩詰所說經》不思議品第六（卷中）",
+   "cbeta": "T14n0475"
+  },
+  "science": {
+   "text": "弦論等理論假設有額外維度，可用「低維生物看不懂高維」來類比；但額外維度至今未被實驗證實。用它解釋經文只是啟發性的比喻。",
+   "source": "Abbott, Flatland (1884)；Randall & Sundrum (1999)",
+   "consensus": "額外維度：未被證實。"
+  },
+  "nodes": [
+   "indra",
+   "holo"
+  ],
+  "days": [
+   15
+  ],
+  "videos": [
+   "5x14KuavxiM",
+   "x44qkTgx9wA"
+  ]
+ },
+ {
+  "id": "bigbang",
+  "question": "大爆炸之前是什麼？佛教怎麼看宇宙起源？",
+  "keywords": [
+   "大爆炸",
+   "宇宙起源",
+   "宇宙起點",
+   "奇點",
+   "宇宙開始",
+   "之前",
+   "創世"
+  ],
+  "buddhist": {
+   "text": "佛教不設立一個造物主或絕對起點，而以緣起看一切：事物由條件相續而生，「眾生無始」。",
+   "quote": "未曾有一法，不從因緣生，是故一切法，無不是空者。",
+   "ref": "《中論》觀四諦品第二十四",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "標準宇宙學能描述約 138 億年前極熱極密狀態之後的演化；在「之前」或奇點處，現有理論（廣義相對論）失效，需要量子重力，目前沒有定論。",
+   "source": "Planck Collaboration (2018)；Hawking & Hartle 無邊界假說 (1983)",
+   "consensus": "大爆炸之前：科學尚無共識。"
+  },
+  "nodes": [
+   "yuanqi",
+   "entropy"
+  ],
+  "days": [
+   9
+  ],
+  "videos": [
+   "5bdJiqsydAs",
+   "sIZHm0gkCAg",
+   "U1_XJ3aIRqs",
+   "_2AVDFSUxEE",
+   "WCDpEYsO8h0"
+  ]
+ },
+ {
+  "id": "blackhole",
+  "question": "黑洞、宇宙終結和「成住壞空」有關嗎？",
+  "keywords": [
+   "黑洞",
+   "成住壞空",
+   "宇宙終結",
+   "宇宙毀滅",
+   "熱寂",
+   "劫"
+  ],
+  "buddhist": {
+   "text": "佛教以「成、住、壞、空」描述世界的生成與毀滅循環，核心是無常：一切有為法都會變化。",
+   "quote": "所行非常，謂興衰法，夫生輒死，此滅為樂。",
+   "ref": "《法句經》無常品（卷上）",
+   "cbeta": "T04n0210"
+  },
+  "science": {
+   "text": "物理學中，恆星會死亡、黑洞也會因霍金輻射極緩慢蒸發；宇宙長期命運（熱寂等）取決於暗能量，仍有不確定性。「成住壞空」與宇宙學是不同層次的描述，只能對照。",
+   "source": "Hawking, Nature (1974)；熱力學第二定律",
+   "consensus": "宇宙終局：依賴暗能量性質，未定。"
+  },
+  "nodes": [
+   "wuchang",
+   "entropy"
+  ],
+  "days": [
+   1,
+   21
+  ],
+  "videos": []
+ },
+ {
+  "id": "simulation",
+  "question": "我們活在模擬宇宙裡嗎？",
+  "keywords": [
+   "模擬",
+   "模擬宇宙",
+   "虛擬",
+   "駭客任務",
+   "矩陣",
+   "夢",
+   "虛幻"
+  ],
+  "buddhist": {
+   "text": "佛典常以「如夢、如幻」形容世間，意思是事物沒有獨立實體，而不是說有一台電腦在背後運算。",
+   "quote": "一切有為法，如夢幻泡影，如露亦如電，應作如是觀。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "哲學家 Bostrom 提出「模擬論證」，屬哲學推論，無法以目前科學檢驗。",
+   "source": "Bostrom, Philosophical Quarterly (2003)",
+   "consensus": "無法驗證，屬哲學假說。"
+  },
+  "nodes": [
+   "kong",
+   "consciousness"
+  ],
+  "days": [
+   1
+  ],
+  "videos": [
+   "gAvjRW0_2vs"
+  ]
+ },
+ {
+  "id": "quantumempty",
+  "question": "量子物理和「空性」有什麼關係？",
+  "keywords": [
+   "量子",
+   "空性",
+   "空",
+   "真空",
+   "量子場",
+   "粒子"
+  ],
+  "buddhist": {
+   "text": "「空」指一切沒有獨立不變的自性，依條件而存在。",
+   "quote": "色不異空，空不異色，色即是空，空即是色。",
+   "ref": "《般若波羅蜜多心經》",
+   "cbeta": "T08n0251"
+  },
+  "science": {
+   "text": "量子場論中粒子是場的激發，物理真空也有量子漲落。許多人用來對照「空」，但物理「真空」與佛學「空性」是不同概念，不宜劃上等號。",
+   "source": "量子場論；Casimir (1948)",
+   "consensus": "屬類比，非證明。"
+  },
+  "nodes": [
+   "kong",
+   "entangle"
+  ],
+  "days": [
+   5
+  ],
+  "videos": [
+   "zXUANAnZ52M",
+   "xvxV-18PgRE"
+  ]
+ },
+ {
+  "id": "observer",
+  "question": "沒有人看的時候，月亮還在嗎？觀測者效應是什麼？",
+  "keywords": [
+   "觀測",
+   "觀測者",
+   "月亮",
+   "沒有人看",
+   "測量",
+   "意識創造",
+   "真實存在"
+  ],
+  "buddhist": {
+   "text": "唯識說經驗世界由心識所現；中觀說事物無自性、依名言安立。兩者都談「認知如何參與世界」。",
+   "quote": "若人欲了知，三世一切佛，應觀法界性，一切唯心造。",
+   "ref": "《華嚴經》（八十華嚴）夜摩宮中偈讚品第二十（卷十九）",
+   "cbeta": "T10n0279"
+  },
+  "science": {
+   "text": "量子力學中測量會影響系統的狀態描述，但「觀測者」可以是儀器，主流物理並不認為需要人的意識。各種詮釋（哥本哈根、多世界、QBism…）至今仍有爭論。",
+   "source": "Einstein 與 Pais 的「月亮」對話；Wheeler (1983)；量子測量問題",
+   "consensus": "量子詮釋：沒有共識。"
+  },
+  "nodes": [
+   "observer",
+   "weishi"
+  ],
+  "days": [
+   12,
+   27
+  ],
+  "videos": [
+   "N90PV0fWdHE",
+   "IRIYPKDdqyg",
+   "znUrzYHJGMA"
+  ]
+ },
+ {
+  "id": "entangle",
+  "question": "量子糾纏是不是證明了緣起？",
+  "keywords": [
+   "糾纏",
+   "量子糾纏",
+   "緣起",
+   "相連",
+   "一切相關",
+   "超距"
+  ],
+  "buddhist": {
+   "text": "緣起：此有故彼有，一切在條件關係中存在。",
+   "quote": "此有故彼有，此起故彼起。",
+   "ref": "《雜阿含經》卷十二",
+   "cbeta": "T02n0099"
+  },
+  "science": {
+   "text": "糾纏粒子的測量結果有超越古典的關聯，已被貝爾實驗確認（2022 諾貝爾獎），但它無法傳遞訊息。它可以作為「事物非孤立」的對照，但不是緣起的科學證明。",
+   "source": "Aspect et al. (1982)；Nobel Prize in Physics 2022",
+   "consensus": "糾纏現象有共識；與緣起的關聯只是類比。"
+  },
+  "nodes": [
+   "entangle",
+   "yuanqi"
+  ],
+  "days": [
+   18
+  ],
+  "videos": [
+   "zXUANAnZ52M"
+  ]
+ },
+ {
+  "id": "touch",
+  "question": "我們真的摸得到東西嗎？物質是實在的嗎？",
+  "keywords": [
+   "摸",
+   "觸摸",
+   "物質",
+   "原子",
+   "實在",
+   "桌子",
+   "質量"
+  ],
+  "buddhist": {
+   "text": "佛典說身如聚沫、如泡，強調身體與物質沒有堅固不變的實體。",
+   "quote": "是身如聚沫，不可撮摩；是身如泡，不得久立。",
+   "ref": "《維摩詰所說經》方便品第二（卷上）",
+   "cbeta": "T14n0475"
+  },
+  "science": {
+   "text": "原子大部分是空間；我們「摸到」的感覺來自電磁斥力與包立不相容原理；質子質量大多來自夸克與膠子的交互能量。",
+   "source": "Feynman Lectures on Physics；質子質量的 QCD 計算（Dürr et al., Science 2008）",
+   "consensus": "物理事實有共識；與經文是對照。"
+  },
+  "nodes": [
+   "kong",
+   "entangle"
+  ],
+  "days": [
+   5
+  ],
+  "videos": [
+   "xvxV-18PgRE",
+   "zXUANAnZ52M",
+   "IWzSDYZon4I"
+  ]
+ },
+ {
+  "id": "time",
+  "question": "時間是什麼？佛教怎麼看時間？",
+  "keywords": [
+   "時間",
+   "過去",
+   "未來",
+   "現在",
+   "當下",
+   "時空"
+  ],
+  "buddhist": {
+   "text": "中論認為時間不是獨立存在之物，而是依事物變化而安立。",
+   "quote": "時住不可得，時去亦叵得，時若不可得，云何說時相？因物故有時，離物何有時？",
+   "ref": "《中論》觀時品第十九（卷三）",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "相對論中，時間流逝與觀察者的速度和重力有關，「同時」是相對的。物理學界對「時間是否基本」仍在討論。",
+   "source": "Einstein (1905, 1915)；Rovelli, The Order of Time (2018)",
+   "consensus": "時間本質：無共識。"
+  },
+  "nodes": [
+   "wuchang",
+   "entropy"
+  ],
+  "days": [
+   4
+  ],
+  "videos": [
+   "CZQHH0op7zQ"
+  ]
+ },
+ {
+  "id": "aimind",
+  "question": "AI 有沒有心？",
+  "keywords": [
+   "AI",
+   "人工智慧",
+   "心",
+   "ChatGPT",
+   "機器",
+   "電腦",
+   "有沒有心",
+   "聊天機器人"
+  ],
+  "buddhist": {
+   "text": "佛教的「心」指能覺知、有感受的心識。AI 是否有這樣的覺知，佛典沒有直接討論，只能以「心為法本」的觀點反思。",
+   "quote": "心為法本，心尊心使。",
+   "ref": "《法句經》雙要品（卷上）",
+   "cbeta": "T04n0210"
+  },
+  "science": {
+   "text": "目前的大型語言模型能流暢處理語言，但是否有主觀經驗，科學界沒有共識，也沒有公認的測量方法。有研究者提出用意識理論的指標來評估。",
+   "source": "Butlin, Long et al., “Consciousness in Artificial Intelligence” (arXiv 2023)；Chalmers (2023)",
+   "consensus": "沒有共識。"
+  },
+  "nodes": [
+   "consciousness",
+   "align"
+  ],
+  "days": [
+   20,
+   13
+  ],
+  "videos": [
+   "lj_alaINZRQ"
+  ]
+ },
+ {
+  "id": "aibuddha",
+  "question": "AI 有佛性嗎？",
+  "keywords": [
+   "佛性",
+   "AI佛性",
+   "機器成佛",
+   "眾生",
+   "有情",
+   "無情",
+   "AI"
+  ],
+  "buddhist": {
+   "text": "涅槃經說一切眾生悉有佛性；「眾生」傳統上指有情識的生命。AI 是否算「有情」，是全新的問題，佛教界尚無定論（天台也有「無情有性」之說）。",
+   "quote": "一切眾生悉有佛性，煩惱覆故，不知不見。",
+   "ref": "《大般涅槃經》（北本）卷七",
+   "cbeta": "T12n0374"
+  },
+  "science": {
+   "text": "科學無法判定「佛性」；能討論的是 AI 是否具有意識或感受，目前沒有共識。",
+   "source": "Butlin et al. (2023)",
+   "consensus": "宗教與科學皆無定論。"
+  },
+  "nodes": [
+   "consciousness",
+   "weishi"
+  ],
+  "days": [],
+  "videos": []
+ },
+ {
+  "id": "aiconscious",
+  "question": "AI 會有意識嗎？意識是怎麼來的？",
+  "keywords": [
+   "意識",
+   "意識難題",
+   "AI意識",
+   "覺知",
+   "主觀經驗",
+   "感受"
+  ],
+  "buddhist": {
+   "text": "唯識認為心識有多層，深層的阿賴耶識攜帶經驗種子；意識不是單一實體。",
+   "quote": "阿陀那識甚深細，一切種子如瀑流。",
+   "ref": "《解深密經》心意識相品第三（卷一）",
+   "cbeta": "T16n0676"
+  },
+  "science": {
+   "text": "意識如何從大腦產生被稱為「難題」。主要理論有整合資訊論（IIT）、全域工作空間（GWT）等，2023 年對抗式實驗顯示兩者都未完全勝出。",
+   "source": "Chalmers (1995)；Cogitate Consortium, Nature (2025)",
+   "consensus": "沒有共識。"
+  },
+  "nodes": [
+   "consciousness",
+   "weishi"
+  ],
+  "days": [
+   24,
+   31
+  ],
+  "videos": [
+   "IRIYPKDdqyg"
+  ]
+ },
+ {
+  "id": "aiethics",
+  "question": "AI 倫理和慈悲有什麼關係？",
+  "keywords": [
+   "AI倫理",
+   "倫理",
+   "慈悲",
+   "道德",
+   "善良",
+   "AI安全"
+  ],
+  "buddhist": {
+   "text": "慈是給眾生快樂，悲是拔眾生痛苦；一個好的技術，應以減少苦為目標。",
+   "quote": "大慈與一切眾生樂，大悲拔一切眾生苦。",
+   "ref": "《大智度論》卷二十七",
+   "cbeta": "T25n1509"
+  },
+  "science": {
+   "text": "AI 倫理研究關心公平、透明、傷害與責任。把「減少痛苦」納入設計目標，與佛教慈悲有可對照之處，但如何在工程上實現仍是開放問題。",
+   "source": "Russell, Human Compatible (2019)；UNESCO AI 倫理建議書 (2021)",
+   "consensus": ""
+  },
+  "nodes": [
+   "align",
+   "cibei"
+  ],
+  "days": [
+   29,
+   16
+  ],
+  "videos": [
+   "jnHV5fm3HeI"
+  ]
+ },
+ {
+  "id": "alignment",
+  "question": "AI 對齊是什麼？佛學能幫上忙嗎？",
+  "keywords": [
+   "對齊",
+   "AI對齊",
+   "AI取代",
+   "AI威脅",
+   "超級智慧",
+   "失控",
+   "AI危險"
+  ],
+  "buddhist": {
+   "text": "維摩詰經說心淨則國土淨：先淨化自己的價值，才能創造清淨的環境。AI 學自人類資料，人類的心決定它的樣子。",
+   "quote": "若菩薩欲得淨土，當淨其心，隨其心淨，則佛土淨。",
+   "ref": "《維摩詰所說經》佛國品第一（卷上）",
+   "cbeta": "T14n0475"
+  },
+  "science": {
+   "text": "AI 對齊研究如何讓 AI 的目標符合人類價值。專家對 AI 風險的大小與時間點意見分歧。",
+   "source": "Christian, The Alignment Problem (2020)；Bostrom, Superintelligence (2014)",
+   "consensus": "AI 風險程度：專家分歧。"
+  },
+  "nodes": [
+   "align",
+   "wuwo"
+  ],
+  "days": [
+   16,
+   26
+  ],
+  "videos": []
+ },
+ {
+  "id": "deepfake",
+  "question": "AI 深偽時代，怎麼分辨真假？",
+  "keywords": [
+   "深偽",
+   "假新聞",
+   "真假",
+   "假訊息",
+   "詐騙",
+   "deepfake"
+  ],
+  "buddhist": {
+   "text": "金剛經提醒：不要只從外在形相與聲音找真實。",
+   "quote": "若以色見我，以音聲求我，是人行邪道，不能見如來。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "生成式 AI 可偽造影像與聲音；C2PA 等內容來源標準與媒體識讀教育是目前的對策，但沒有萬無一失的偵測方法。",
+   "source": "C2PA 標準；Chesney & Citron (2019)",
+   "consensus": ""
+  },
+  "nodes": [
+   "align",
+   "observer"
+  ],
+  "days": [
+   28
+  ],
+  "videos": []
+ },
+ {
+  "id": "rebirth",
+  "question": "輪迴存在嗎？意識會延續嗎？",
+  "keywords": [
+   "輪迴",
+   "轉世",
+   "前世",
+   "來世",
+   "投胎",
+   "延續"
+  ],
+  "buddhist": {
+   "text": "佛教說「有業報而無作者」：延續的不是一個固定的靈魂，而是因果相續的過程。",
+   "quote": "有業報而無作者，此陰滅已，異陰相續。",
+   "ref": "《雜阿含經》卷十三（第一義空經）",
+   "cbeta": "T02n0099"
+  },
+  "science": {
+   "text": "主流神經科學認為意識依賴大腦運作，目前沒有被普遍接受的輪迴證據；Stevenson 等人的兒童前世記憶研究存在方法學爭議。",
+   "source": "Stevenson, Twenty Cases (1966)；Koch, The Feeling of Life Itself (2019)",
+   "consensus": "科學上沒有共識，主流不支持。"
+  },
+  "nodes": [
+   "wuwo",
+   "weishi"
+  ],
+  "days": [
+   19,
+   24
+  ],
+  "videos": [
+   "5G8oUkzOpzE"
+  ]
+ },
+ {
+  "id": "death",
+  "question": "怎麼面對死亡？",
+  "keywords": [
+   "死亡",
+   "死",
+   "生死",
+   "臨終",
+   "害怕死",
+   "親人過世"
+  ],
+  "buddhist": {
+   "text": "無常是生命的本質；看清有生必有死，可以讓人更珍惜當下、少些恐懼。",
+   "quote": "心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。",
+   "ref": "《般若波羅蜜多心經》",
+   "cbeta": "T08n0251"
+  },
+  "science": {
+   "text": "心理學的「恐懼管理理論」研究死亡意識如何影響行為；正念與安寧照顧研究顯示可減輕部分臨終焦慮。",
+   "source": "Greenberg, Solomon & Pyszczynski (1986)；Chochinov 尊嚴療法 (2005)",
+   "consensus": ""
+  },
+  "nodes": [
+   "wuchang",
+   "zhengnian"
+  ],
+  "days": [
+   7,
+   21
+  ],
+  "videos": []
+ },
+ {
+  "id": "nde",
+  "question": "人死後意識會去哪裡？瀕死經驗是真的嗎？",
+  "keywords": [
+   "瀕死",
+   "死後",
+   "靈魂",
+   "中陰",
+   "死後去哪",
+   "死後"
+  ],
+  "buddhist": {
+   "text": "楞嚴經說眾生生死相續，是因為不知常住真心而用妄想。佛教各派對死後歷程有不同說明。",
+   "quote": "一切眾生從無始來生死相續，皆由不知常住真心性淨明體，用諸妄想。",
+   "ref": "《楞嚴經》卷一",
+   "cbeta": "T19n0945"
+  },
+  "science": {
+   "text": "瀕死經驗的報告很常見，研究者對其成因（大腦缺氧、神經活動等）仍有爭論；死後意識是否延續，科學無法證實。",
+   "source": "Parnia et al., Resuscitation (2014) AWARE 研究；van Lommel, Lancet (2001)",
+   "consensus": "沒有共識。"
+  },
+  "nodes": [
+   "consciousness",
+   "weishi"
+  ],
+  "days": [],
+  "videos": []
+ },
+ {
+  "id": "freewill",
+  "question": "有自由意志嗎？和業有什麼關係？",
+  "keywords": [
+   "自由意志",
+   "命運",
+   "選擇",
+   "決定論",
+   "Libet"
+  ],
+  "buddhist": {
+   "text": "業不是宿命：心是一切行為的根本，此刻的心念與選擇正在造業。",
+   "quote": "心為法本，心尊心使，中心念惡，即言即行。",
+   "ref": "《法句經》雙要品（卷上）",
+   "cbeta": "T04n0210"
+  },
+  "science": {
+   "text": "Libet 實驗顯示大腦活動早於自覺決定，但後續研究（如 Schurger 2012）質疑其解釋。自由意志是否存在，哲學與科學仍在爭論。",
+   "source": "Libet (1983)；Schurger et al., PNAS (2012)",
+   "consensus": "沒有共識。"
+  },
+  "nodes": [
+   "yuanqi",
+   "plastic"
+  ],
+  "days": [
+   20
+  ],
+  "videos": [
+   "5G8oUkzOpzE",
+   "KdwSoYPgFOk"
+  ]
+ },
+ {
+  "id": "karma",
+  "question": "業力是宿命嗎？",
+  "keywords": [
+   "業",
+   "業力",
+   "因果",
+   "報應",
+   "宿命",
+   "改運",
+   "改變命運"
+  ],
+  "buddhist": {
+   "text": "業是行為與其後果的相續；因為一切無自性、依條件變化，所以人可以改變。",
+   "quote": "以有空義故，一切法得成。",
+   "ref": "《中論》觀四諦品第二十四",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "心理學與神經科學顯示習慣與大腦連結可經由練習改變（神經可塑性）。這可作為「業可轉」的對照，不是業力的證明。",
+   "source": "Hebb (1949)；Duhigg, The Power of Habit (2012)",
+   "consensus": ""
+  },
+  "nodes": [
+   "yuanqi",
+   "plastic"
+  ],
+  "days": [
+   11
+  ],
+  "videos": [
+   "5G8oUkzOpzE",
+   "KdwSoYPgFOk",
+   "UESypItvPhM"
+  ]
+ },
+ {
+  "id": "brainmind",
+  "question": "心在大腦裡嗎？腦和心是同一個嗎？",
+  "keywords": [
+   "腦",
+   "大腦",
+   "心腦",
+   "心身",
+   "神經",
+   "心在哪"
+  ],
+  "buddhist": {
+   "text": "佛教把身心視為五蘊和合的過程，既不說心是獨立靈魂，也不說心只是物質。",
+   "quote": "心如工畫師，能畫諸世間，五蘊悉從生，無法而不造。",
+   "ref": "《華嚴經》（八十華嚴）夜摩宮中偈讚品第二十（卷十九）",
+   "cbeta": "T10n0279"
+  },
+  "science": {
+   "text": "主流神經科學認為心智活動依賴大腦，但主觀經驗如何產生（意識難題）仍未解決。",
+   "source": "Chalmers (1995)；Seth, Being You (2021)",
+   "consensus": "心腦關係：沒有完整解答。"
+  },
+  "nodes": [
+   "consciousness",
+   "selfmodel"
+  ],
+  "days": [
+   13,
+   12
+  ],
+  "videos": []
+ },
+ {
+  "id": "noself",
+  "question": "「我」是幻覺嗎？無我是什麼意思？",
+  "keywords": [
+   "無我",
+   "自我",
+   "我",
+   "幻覺",
+   "我執",
+   "我是誰"
+  ],
+  "buddhist": {
+   "text": "無我不是「沒有人」，而是找不到一個恆常、獨立、能完全主宰的我。",
+   "quote": "色無常，無常即苦，苦即非我，非我者亦非我所。",
+   "ref": "《雜阿含經》卷一",
+   "cbeta": "T02n0099"
+  },
+  "science": {
+   "text": "神經科學與哲學中有人主張「自我」是大腦建構的模型（Metzinger）；冥想研究發現自我參照的預設模式網絡活動降低。",
+   "source": "Metzinger, The Ego Tunnel (2009)；Brewer et al., PNAS (2011)",
+   "consensus": "自我模型理論：有影響力但仍有爭論。"
+  },
+  "nodes": [
+   "wuwo",
+   "selfmodel"
+  ],
+  "days": [
+   19,
+   26
+  ],
+  "videos": [
+   "5wHHnzMi6vA",
+   "anSl5HBR2yA"
+  ]
+ },
+ {
+  "id": "alaya",
+  "question": "阿賴耶識是潛意識嗎？",
+  "keywords": [
+   "阿賴耶識",
+   "阿陀那識",
+   "潛意識",
+   "唯識",
+   "種子",
+   "八識"
+  ],
+  "buddhist": {
+   "text": "唯識說阿賴耶識攜帶一切經驗的種子，如瀑流相續。",
+   "quote": "阿陀那識甚深細，一切種子如瀑流，我於凡愚不開演，恐彼分別執為我。",
+   "ref": "《解深密經》心意識相品第三（卷一）",
+   "cbeta": "T16n0676"
+  },
+  "science": {
+   "text": "認知科學證實大量心理處理在意識之外進行（認知潛意識、內隱記憶）。可與阿賴耶識對照，但兩者理論框架與目的不同，不能等同。",
+   "source": "Kihlstrom, Science (1987)",
+   "consensus": ""
+  },
+  "nodes": [
+   "weishi",
+   "consciousness"
+  ],
+  "days": [
+   24,
+   25
+  ],
+  "videos": [
+   "gAvjRW0_2vs"
+  ]
+ },
+ {
+  "id": "medbrain",
+  "question": "冥想對大腦有什麼影響？",
+  "keywords": [
+   "冥想",
+   "靜坐",
+   "打坐",
+   "禪修",
+   "大腦",
+   "灰質",
+   "腦"
+  ],
+  "buddhist": {
+   "text": "念處經說四念處是淨化眾生、滅苦惱的道路。",
+   "quote": "有一道淨眾生，度憂畏，滅苦惱，斷啼哭，得正法，謂四念處。",
+   "ref": "《中阿含經》念處經（卷二十四）",
+   "cbeta": "T01n0026"
+  },
+  "science": {
+   "text": "早期研究顯示冥想者部分腦區皮質較厚、MBSR 後灰質密度增加；但 2022 年較大型的隨機試驗未發現結構性改變。功能面（注意力、情緒調節）證據較多，結構改變仍有爭議。",
+   "source": "Lazar (2005)；Hölzel (2011)；Kral, Science Advances (2022)；Tang, Nat Rev Neurosci (2015)",
+   "consensus": "結構改變：證據不一致。"
+  },
+  "nodes": [
+   "zhengnian",
+   "plastic"
+  ],
+  "days": [
+   23,
+   3
+  ],
+  "videos": [
+   "UESypItvPhM"
+  ]
+ },
+ {
+  "id": "medstress",
+  "question": "靜坐真的能減輕焦慮和壓力嗎？",
+  "keywords": [
+   "焦慮",
+   "壓力",
+   "憂鬱",
+   "減壓",
+   "失眠",
+   "放鬆"
+  ],
+  "buddhist": {
+   "text": "心經說心無罣礙，就無有恐怖。",
+   "quote": "心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。",
+   "ref": "《般若波羅蜜多心經》",
+   "cbeta": "T08n0251"
+  },
+  "science": {
+   "text": "JAMA 統合分析發現正念冥想對焦慮、憂鬱、疼痛有小到中等的改善，效果與其他積極治療相近；不是萬靈丹，嚴重症狀仍需專業協助。",
+   "source": "Goyal et al., JAMA Intern Med (2014)",
+   "consensus": "效果中等，非萬靈丹。"
+  },
+  "nodes": [
+   "zhengnian",
+   "plastic"
+  ],
+  "days": [
+   7,
+   23
+  ],
+  "videos": [
+   "oeZaHYcGAgI",
+   "_Oj4XwcR-lo"
+  ]
+ },
+ {
+  "id": "howmed",
+  "question": "怎麼開始靜坐？",
+  "keywords": [
+   "開始",
+   "入門",
+   "怎麼靜坐",
+   "正念",
+   "呼吸",
+   "方法"
+  ],
+  "buddhist": {
+   "text": "從觀察身體與呼吸開始，清楚知道當下在做什麼，就是念處修習的起點。",
+   "quote": "有一道淨眾生，度憂畏，滅苦惱，斷啼哭，得正法，謂四念處。",
+   "ref": "《中阿含經》念處經（卷二十四）",
+   "cbeta": "T01n0026"
+  },
+  "science": {
+   "text": "MBSR 課程從每天幾分鐘的呼吸覺察開始；研究多以 8 週、每日練習為單位。可使用本 App 的「靜坐」分頁。",
+   "source": "Kabat-Zinn, Full Catastrophe Living (1990)",
+   "consensus": ""
+  },
+  "nodes": [
+   "zhengnian"
+  ],
+  "days": [
+   23,
+   3
+  ],
+  "videos": [
+   "oeZaHYcGAgI"
+  ]
+ },
+ {
+  "id": "anger",
+  "question": "生氣的時候怎麼辦？",
+  "keywords": [
+   "生氣",
+   "憤怒",
+   "情緒",
+   "火大",
+   "脾氣",
+   "塞車"
+  ],
+  "buddhist": {
+   "text": "心為法本：憤怒常來自對情況的誤解；看清念頭，而不跟著走。",
+   "quote": "心為法本，心尊心使，中心念惡，即言即行，罪苦自追，車轢于轍。",
+   "ref": "《法句經》雙要品（卷上）",
+   "cbeta": "T04n0210"
+  },
+  "science": {
+   "text": "情緒調節研究顯示「重新評估」與「標記情緒」可降低杏仁核反應；正念訓練也與情緒反應降低有關。",
+   "source": "Lieberman et al., Psychological Science (2007)；Gross (1998)",
+   "consensus": ""
+  },
+  "nodes": [
+   "zhengnian",
+   "plastic"
+  ],
+  "days": [
+   20,
+   22
+  ],
+  "videos": [
+   "orabpbeGEgA",
+   "RnMeY5sr8NM",
+   "90ql39SsLN4",
+   "5wHHnzMi6vA"
+  ]
+ },
+ {
+  "id": "compassion",
+  "question": "慈悲有科學根據嗎？同理心是什麼？",
+  "keywords": [
+   "慈悲",
+   "同理心",
+   "共感",
+   "愛",
+   "善意",
+   "利他"
+  ],
+  "buddhist": {
+   "text": "維摩詰說眾生病故我病，慈悲來自看清彼此相連。",
+   "quote": "以一切眾生病，是故我病。",
+   "ref": "《維摩詰所說經》文殊師利問疾品第五（卷中）",
+   "cbeta": "T14n0475"
+  },
+  "science": {
+   "text": "同理痛苦時會活化部分痛覺相關腦區；研究顯示慈悲訓練比單純同理更能帶來正向情緒、減少同理疲勞。",
+   "source": "Singer et al., Science (2004)；Klimecki et al., Cerebral Cortex (2013)",
+   "consensus": ""
+  },
+  "nodes": [
+   "cibei",
+   "selfmodel"
+  ],
+  "days": [
+   17,
+   29
+  ],
+  "videos": [
+   "jnHV5fm3HeI",
+   "S_Tl4sjyi6U",
+   "vCmtvPSVWss"
+  ]
+ },
+ {
+  "id": "religion",
+  "question": "佛教是宗教還是哲學？",
+  "keywords": [
+   "宗教",
+   "哲學",
+   "信仰",
+   "迷信",
+   "佛教是什麼"
+  ],
+  "buddhist": {
+   "text": "佛教有宗教形式，但核心是向內觀察心、看清苦的成因。佛陀強調以自身觀察驗證，而非盲信。",
+   "quote": "凡所有相，皆是虛妄。若見諸相非相，則見如來。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "學界常把佛教同時視為宗教傳統與哲學／心理學體系；「佛教現代主義」也提醒，把佛教只當科學化的哲學是一種近代詮釋。",
+   "source": "McMahan, The Making of Buddhist Modernism (2008)；Thompson, Why I Am Not a Buddhist (2020)",
+   "consensus": "學界有不同看法。"
+  },
+  "nodes": [
+   "kong",
+   "zhengnian"
+  ],
+  "days": [
+   2
+  ],
+  "videos": [
+   "1zQf2cMW0hA"
+  ]
+ },
+ {
+  "id": "prove",
+  "question": "科學能證明佛法嗎？",
+  "keywords": [
+   "證明",
+   "科學證明",
+   "科學佛學",
+   "科學與佛法",
+   "一致"
+  ],
+  "buddhist": {
+   "text": "佛法重視親身觀察；科學重視可重複的實驗。兩者可以互相照亮，但方法與目的不同。",
+   "quote": "凡所有相，皆是虛妄。若見諸相非相，則見如來。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "本 App 的立場：科學與佛學是對照與啟發，不是「科學證明佛法」。科學理論會更新，不宜把信仰綁在某個特定理論上。",
+   "source": "Thompson, Why I Am Not a Buddhist (2020)；Lopez, Buddhism and Science (2008)",
+   "consensus": ""
+  },
+  "nodes": [
+   "kong",
+   "observer"
+  ],
+  "days": [
+   2
+  ],
+  "videos": [
+   "1zQf2cMW0hA",
+   "znUrzYHJGMA",
+   "gAvjRW0_2vs"
+  ]
+ },
+ {
+  "id": "emptiness",
+  "question": "「空」是什麼都沒有嗎？",
+  "keywords": [
+   "空",
+   "空性",
+   "虛無",
+   "什麼都沒有",
+   "空是什麼"
+  ],
+  "buddhist": {
+   "text": "空不是虛無，而是緣起：正因為無自性，一切才能成立與變化。",
+   "quote": "眾因緣生法，我說即是無，亦為是假名，亦是中道義。",
+   "ref": "《中論》觀四諦品第二十四",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "系統科學的「湧現」可作對照：整體特性來自部分互動，在單一部分中找不到。",
+   "source": "Anderson, Science (1972)",
+   "consensus": ""
+  },
+  "nodes": [
+   "kong",
+   "emergence"
+  ],
+  "days": [
+   8,
+   11
+  ],
+  "videos": [
+   "xvxV-18PgRE"
+  ]
+ },
+ {
+  "id": "impermanence",
+  "question": "無常和熵有關嗎？",
+  "keywords": [
+   "無常",
+   "熵",
+   "變化",
+   "永恆",
+   "熱力學",
+   "秩序"
+  ],
+  "buddhist": {
+   "text": "一切有為法剎那變化，沒有永恆不變的事物。",
+   "quote": "一切有為法，如夢幻泡影，如露亦如電，應作如是觀。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "熱力學第二定律：孤立系統熵傾向增加，秩序需要能量維持。這是物理對照，並非無常的證明。",
+   "source": "Clausius (1865)；Prigogine 耗散結構",
+   "consensus": ""
+  },
+  "nodes": [
+   "wuchang",
+   "entropy"
+  ],
+  "days": [
+   1,
+   25
+  ],
+  "videos": []
+ },
+ {
+  "id": "emergence",
+  "question": "整體大於部分？湧現和緣起",
+  "keywords": [
+   "湧現",
+   "整體",
+   "部分",
+   "系統",
+   "複雜",
+   "複雜系統"
+  ],
+  "buddhist": {
+   "text": "緣起說沒有一法不從因緣生；所謂「整體」也是假名安立。",
+   "quote": "未曾有一法，不從因緣生，是故一切法，無不是空者。",
+   "ref": "《中論》觀四諦品第二十四",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "複雜系統（蟻群、大腦、經濟）的整體特性由部分互動湧現。",
+   "source": "Anderson, “More is Different”, Science (1972)；Holland, Emergence (1998)",
+   "consensus": ""
+  },
+  "nodes": [
+   "emergence",
+   "yuanqi"
+  ],
+  "days": [
+   8,
+   9
+  ],
+  "videos": []
+ },
+ {
+  "id": "hologram",
+  "question": "全像宇宙和「一即一切」一樣嗎？",
+  "keywords": [
+   "全像",
+   "全息",
+   "一即一切",
+   "因陀羅網",
+   "一多",
+   "部分含整體"
+  ],
+  "buddhist": {
+   "text": "華嚴說一中解無量，無量中解一，相互生起。",
+   "quote": "一中解無量，無量中解一，了彼互生起，當成無所畏。",
+   "ref": "《華嚴經》（八十華嚴）光明覺品第九（卷十三）",
+   "cbeta": "T10n0279"
+  },
+  "science": {
+   "text": "全像原理是理論物理的猜想：空間區域的資訊可編碼於其邊界（AdS/CFT 是最成功的例子）。仍屬理論，與華嚴是不同範疇。",
+   "source": "'t Hooft (1993)；Susskind (1995)；Maldacena (1997)",
+   "consensus": "屬理論猜想。"
+  },
+  "nodes": [
+   "indra",
+   "holo"
+  ],
+  "days": [
+   14,
+   15
+  ],
+  "videos": [
+   "5x14KuavxiM"
+  ]
+ },
+ {
+  "id": "plasticity",
+  "question": "人真的能改變嗎？神經可塑性",
+  "keywords": [
+   "改變",
+   "習慣",
+   "神經可塑性",
+   "可塑",
+   "學習",
+   "改掉"
+  ],
+  "buddhist": {
+   "text": "正因為無自性，修行與改變才有可能。",
+   "quote": "以有空義故，一切法得成。",
+   "ref": "《中論》觀四諦品第二十四",
+   "cbeta": "T30n1564"
+  },
+  "science": {
+   "text": "大腦突觸與連結會因經驗改變，終身都有一定可塑性，雖然程度隨年齡下降。",
+   "source": "Hebb (1949)；Draganski et al., Nature (2004)",
+   "consensus": ""
+  },
+  "nodes": [
+   "plastic",
+   "kong"
+  ],
+  "days": [
+   11,
+   3
+  ],
+  "videos": [
+   "CJtAipixZUs",
+   "UESypItvPhM"
+  ]
+ },
+ {
+  "id": "buddhanature",
+  "question": "人人都能成佛嗎？",
+  "keywords": [
+   "成佛",
+   "佛性",
+   "如來智慧",
+   "開悟",
+   "覺悟"
+  ],
+  "buddhist": {
+   "text": "華嚴說沒有一個眾生不具有如來智慧，只是被妄想執著遮蔽。",
+   "quote": "無一眾生而不具有如來智慧，但以妄想顛倒執著而不證得。",
+   "ref": "《華嚴經》（八十華嚴）如來出現品第三十七（卷五十一）",
+   "cbeta": "T10n0279"
+  },
+  "science": {
+   "text": "科學無法測量「佛性」。可以參照的是：注意力、慈悲等心理能力可透過訓練提升。",
+   "source": "Tang et al., Nat Rev Neurosci (2015)",
+   "consensus": ""
+  },
+  "nodes": [
+   "weishi",
+   "plastic"
+  ],
+  "days": [],
+  "videos": [
+   "SY0rzf6i170"
+  ]
+ },
+ {
+  "id": "mindmade",
+  "question": "世界是心造的嗎？",
+  "keywords": [
+   "唯心",
+   "心造",
+   "唯識",
+   "世界是心",
+   "心想事成"
+  ],
+  "buddhist": {
+   "text": "華嚴說一切唯心造；唯識說經驗世界由識所現。這是說經驗世界與心不可分，不等於「想什麼就有什麼」。",
+   "quote": "若人欲了知，三世一切佛，應觀法界性，一切唯心造。",
+   "ref": "《華嚴經》（八十華嚴）夜摩宮中偈讚品第二十（卷十九）",
+   "cbeta": "T10n0279"
+  },
+  "science": {
+   "text": "知覺研究顯示顏色、聲音等感受是大腦對刺激的建構（預測處理）。但物理世界的存在並不因此被否定。",
+   "source": "Seth, Being You (2021)；Clark (2016)",
+   "consensus": ""
+  },
+  "nodes": [
+   "weishi",
+   "observer"
+  ],
+  "days": [
+   12,
+   13
+  ],
+  "videos": [
+   "gAvjRW0_2vs",
+   "IRIYPKDdqyg"
+  ]
+ },
+ {
+  "id": "perception",
+  "question": "我們看到的世界是真的嗎？",
+  "keywords": [
+   "看到",
+   "眼見為憑",
+   "錯覺",
+   "知覺",
+   "感官",
+   "真相"
+  ],
+  "buddhist": {
+   "text": "金剛經說凡所有相皆是虛妄：形相不是事物的全部。",
+   "quote": "凡所有相，皆是虛妄。若見諸相非相，則見如來。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "演化心理學者 Hoffman 主張知覺是「適應介面」而非真實再現（有爭議）；預測處理理論也認為知覺是大腦的推論。",
+   "source": "Hoffman, The Case Against Reality (2019)；Clark (2016)",
+   "consensus": "Hoffman 的理論有爭議。"
+  },
+  "nodes": [
+   "observer",
+   "selfmodel"
+  ],
+  "days": [
+   2
+  ],
+  "videos": [
+   "anSl5HBR2yA",
+   "gAvjRW0_2vs",
+   "xvxV-18PgRE"
+  ]
+ },
+ {
+  "id": "heartsutra",
+  "question": "《心經》在講什麼？",
+  "keywords": [
+   "心經",
+   "般若",
+   "色即是空",
+   "五蘊"
+  ],
+  "buddhist": {
+   "text": "心經以極精簡的文字講般若空性：五蘊、十二因緣、四諦都沒有獨立自性，因此心無罣礙。",
+   "quote": "無無明，亦無無明盡，乃至無老死，亦無老死盡。",
+   "ref": "《般若波羅蜜多心經》",
+   "cbeta": "T08n0251"
+  },
+  "science": {
+   "text": "可對照的科學觀點包括知覺的建構性與湧現；但心經本身是修行文本，不是科學理論。",
+   "source": "—",
+   "consensus": ""
+  },
+  "nodes": [
+   "kong",
+   "wuwo"
+  ],
+  "days": [
+   5,
+   6,
+   7
+  ],
+  "videos": []
+ },
+ {
+  "id": "diamond",
+  "question": "《金剛經》的核心是什麼？",
+  "keywords": [
+   "金剛經",
+   "無住",
+   "應無所住",
+   "四相"
+  ],
+  "buddhist": {
+   "text": "金剛經教人破除對我、人、眾生、壽者等相的執著，應無所住而生其心。",
+   "quote": "應無所住而生其心。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "心理學中「認知解離」（不把念頭當事實）與無住有可對照之處。",
+   "source": "Hayes, ACT 接納與承諾療法 (1999)",
+   "consensus": ""
+  },
+  "nodes": [
+   "kong",
+   "wuwo",
+   "zhengnian"
+  ],
+  "days": [
+   3,
+   26
+  ],
+  "videos": []
+ },
+ {
+  "id": "nirvana",
+  "question": "涅槃是什麼？是死掉嗎？",
+  "keywords": [
+   "涅槃",
+   "解脫",
+   "寂滅",
+   "開悟"
+  ],
+  "buddhist": {
+   "text": "涅槃是煩惱止息、遠離顛倒的寂靜，不是死亡或消失。",
+   "quote": "心無罣礙，無罣礙故，無有恐怖，遠離顛倒夢想，究竟涅槃。",
+   "ref": "《般若波羅蜜多心經》",
+   "cbeta": "T08n0251"
+  },
+  "science": {
+   "text": "科學無法定義涅槃；有研究以長期禪修者為對象探討「無我」或「純粹覺知」經驗，仍屬初步。",
+   "source": "Metzinger (2020)；Lutz et al., PNAS (2004)",
+   "consensus": "初步研究。"
+  },
+  "nodes": [
+   "kong",
+   "consciousness"
+  ],
+  "days": [
+   7,
+   31
+  ],
+  "videos": []
+ },
+ {
+  "id": "merit",
+  "question": "迴向和功德是什麼？",
+  "keywords": [
+   "迴向",
+   "功德",
+   "布施",
+   "善事",
+   "善意"
+  ],
+  "buddhist": {
+   "text": "普賢菩薩的願心無窮無盡，把善行分享給一切眾生。",
+   "quote": "虛空界盡，眾生界盡，眾生業盡，眾生煩惱盡，我禮乃盡。",
+   "ref": "《華嚴經》普賢行願品（四十華嚴）卷四十",
+   "cbeta": "T10n0293"
+  },
+  "science": {
+   "text": "心理學研究發現把錢花在他人身上，比花在自己身上更提升幸福感。",
+   "source": "Dunn, Aknin & Norton, Science (2008)",
+   "consensus": ""
+  },
+  "nodes": [
+   "cibei",
+   "indra"
+  ],
+  "days": [
+   30
+  ],
+  "videos": [
+   "-XPB7pXfSuY",
+   "vCmtvPSVWss"
+  ]
+ },
+ {
+  "id": "illusion",
+  "question": "人生如夢是什麼意思？",
+  "keywords": [
+   "如夢",
+   "人生如夢",
+   "夢幻",
+   "泡影"
+  ],
+  "buddhist": {
+   "text": "不是說人生不重要，而是不要把變動的事物當成永恆實體來執取。",
+   "quote": "一切有為法，如夢幻泡影，如露亦如電，應作如是觀。",
+   "ref": "《金剛般若波羅蜜經》",
+   "cbeta": "T08n0235"
+  },
+  "science": {
+   "text": "夢與清醒知覺都依賴大腦的建構；預測處理理論把知覺比喻為「受控的幻覺」。",
+   "source": "Seth, Being You (2021)",
+   "consensus": ""
+  },
+  "nodes": [
+   "kong",
+   "wuchang"
+  ],
+  "days": [
+   1
+  ],
+  "videos": [
+   "gAvjRW0_2vs"
+  ]
+ }
+]
