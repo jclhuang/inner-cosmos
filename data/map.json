@@ -1,0 +1,369 @@
+{
+ "channel": "https://www.youtube.com/@jameshuang484",
+ "nodes": [
+  {
+   "id": "kong",
+   "label": "空性",
+   "type": "b",
+   "explain": "一切現象沒有獨立、不變的自性，依條件而存在。空不是「沒有」，而是「不孤立」。",
+   "quote": "《心經》：色即是空，空即是色。（T08n0251）",
+   "question": "「空」讓你害怕，還是讓你自由？",
+   "days": [
+    2,
+    5,
+    6,
+    10,
+    11,
+    27,
+    31
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "yuanqi",
+   "label": "緣起",
+   "type": "b",
+   "explain": "此有故彼有：一切由條件相互依存而生起。",
+   "quote": "《雜阿含經》：此有故彼有，此起故彼起。（T02n0099）",
+   "question": "你今天的心情，是由哪些條件構成的？",
+   "days": [
+    8,
+    9,
+    18
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "wuwo",
+   "label": "無我",
+   "type": "b",
+   "explain": "找不到一個恆常、獨立、能完全主宰的「我」；身心是流動的過程。",
+   "quote": "《雜阿含經》：苦即非我，非我者亦非我所。（T02n0099）",
+   "question": "你在什麼時候最強烈感覺到「我」？",
+   "days": [
+    19,
+    21,
+    26
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "wuchang",
+   "label": "無常",
+   "type": "b",
+   "explain": "一切有為法剎那生滅，沒有永恆不變的事物。",
+   "quote": "《金剛經》：一切有為法，如夢幻泡影。（T08n0235）",
+   "question": "接受變化，會讓你失去什麼、得到什麼？",
+   "days": [
+    1,
+    4,
+    21
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "weishi",
+   "label": "唯識／阿賴耶識",
+   "type": "b",
+   "explain": "經驗世界由心識所現；阿賴耶識攜帶一切經驗的種子，如瀑流相續。",
+   "quote": "《唯識三十論頌》：恒轉如瀑流。（T31n1586）",
+   "question": "你的世界，有多少是心識投射出來的？",
+   "days": [
+    12,
+    13,
+    20,
+    24,
+    25
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "indra",
+   "label": "一即一切／因陀羅網",
+   "type": "b",
+   "explain": "華嚴宗以帝釋天的寶珠網為喻：每顆珠子映現所有珠子，一中有一切。",
+   "quote": "《華嚴經》：一中解無量，無量中解一。（T10n0279）",
+   "question": "你和世界，是哪一顆珠子映照著哪一顆？",
+   "days": [
+    14,
+    15,
+    30
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "cibei",
+   "label": "慈悲",
+   "type": "b",
+   "explain": "慈與樂，悲拔苦；看清無我與緣起，自然生起對眾生的關懷。",
+   "quote": "《大智度論》：大慈與一切眾生樂，大悲拔一切眾生苦。（T25n1509）",
+   "question": "慈悲是一種情緒，還是一種看清事實的智慧？",
+   "days": [
+    16,
+    17,
+    29,
+    30
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "zhengnian",
+   "label": "正念",
+   "type": "b",
+   "explain": "清楚覺知當下的身、受、心、法，不評判、不黏著。",
+   "quote": "《中阿含經》念處經：有一道淨眾生……謂四念處。（T01n0026）",
+   "question": "此刻，你的注意力在哪裡？",
+   "days": [
+    3,
+    7,
+    22,
+    23
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "entangle",
+   "label": "量子糾纏",
+   "type": "s",
+   "explain": "兩個糾纏粒子的測量結果有超越古典的關聯，即使相隔遙遠（無法用來傳訊）。對照緣起：事物並非完全孤立。",
+   "quote": "Aspect 實驗 (1982)；2022 諾貝爾物理獎",
+   "question": "如果萬物彼此牽連，「我的事」的邊界在哪裡？",
+   "days": [
+    5,
+    18
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "observer",
+   "label": "觀測者效應",
+   "type": "s",
+   "explain": "量子測量會改變系統的狀態描述；「觀測者」不一定指人的意識，詮釋仍有爭論。對照：名言與認知如何塑造所見。",
+   "quote": "Wheeler (1983)；量子測量問題",
+   "question": "你的「觀看方式」如何改變了你看到的？",
+   "days": [
+    10,
+    27,
+    28
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "holo",
+   "label": "全像原理",
+   "type": "s",
+   "explain": "理論物理猜想：一個空間區域的資訊可編碼在其邊界上。像「部分含整體」的意象，仍屬假說。",
+   "quote": "'t Hooft (1993)；Susskind (1995)",
+   "question": "一個人的一句話，能否映出他的整個人生？",
+   "days": [
+    14,
+    15
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "emergence",
+   "label": "系統論／湧現",
+   "type": "s",
+   "explain": "整體特性由部分互動湧現，無法在單一部分找到。對照緣起與「假名」。",
+   "quote": "Anderson, “More is Different” (1972)",
+   "question": "「你」是不是一種湧現？",
+   "days": [
+    8,
+    9,
+    25
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "selfmodel",
+   "label": "腦科學的自我模型",
+   "type": "s",
+   "explain": "「自我」可能是大腦建構的模型，在特定情況下可以改變或消融。對照無我。",
+   "quote": "Metzinger, The Ego Tunnel (2009)",
+   "question": "如果自我是模型，誰在看這個模型？",
+   "days": [
+    2,
+    17,
+    19
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "plastic",
+   "label": "神經可塑性",
+   "type": "s",
+   "explain": "大腦結構與連結會因經驗與練習而改變。對照修行與習氣轉化。",
+   "quote": "Hebb (1949)；Lazar et al. (2005)",
+   "question": "你每天的重複，正在把大腦塑造成什麼？",
+   "days": [
+    3,
+    7,
+    11,
+    20,
+    22
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "align",
+   "label": "AI 對齊與倫理",
+   "type": "s",
+   "explain": "如何讓 AI 的目標與人類價值一致。佛學的無我、慈悲、淨心，可作為思考價值的資源。",
+   "quote": "Russell, Human Compatible (2019)；Christian, The Alignment Problem (2020)",
+   "question": "你希望 AI 學到人類的哪一面？",
+   "days": [
+    13,
+    16,
+    26,
+    28,
+    29
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "entropy",
+   "label": "熵與變化",
+   "type": "s",
+   "explain": "孤立系統的熵傾向增加；秩序需要能量維持。對照無常。",
+   "quote": "熱力學第二定律",
+   "question": "你花多少力氣維持「不變」？",
+   "days": [
+    1,
+    4,
+    6
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  },
+  {
+   "id": "consciousness",
+   "label": "意識研究",
+   "type": "s",
+   "explain": "意識如何從大腦產生仍是「難題」；冥想者是重要研究對象。對照唯識與覺性。",
+   "quote": "Chalmers (1995)；Seth, Being You (2021)",
+   "question": "你能直接覺察「覺察」本身嗎？",
+   "days": [
+    12,
+    23,
+    24,
+    31
+   ],
+   "youtube": "",
+   "youtubeNote": "（請填入相關影片網址）"
+  }
+ ],
+ "edges": [
+  {
+   "a": "kong",
+   "b": "entangle"
+  },
+  {
+   "a": "kong",
+   "b": "observer"
+  },
+  {
+   "a": "kong",
+   "b": "selfmodel"
+  },
+  {
+   "a": "yuanqi",
+   "b": "entangle"
+  },
+  {
+   "a": "yuanqi",
+   "b": "emergence"
+  },
+  {
+   "a": "wuwo",
+   "b": "selfmodel"
+  },
+  {
+   "a": "wuwo",
+   "b": "align"
+  },
+  {
+   "a": "wuchang",
+   "b": "entropy"
+  },
+  {
+   "a": "weishi",
+   "b": "consciousness"
+  },
+  {
+   "a": "weishi",
+   "b": "observer"
+  },
+  {
+   "a": "weishi",
+   "b": "plastic"
+  },
+  {
+   "a": "indra",
+   "b": "holo"
+  },
+  {
+   "a": "indra",
+   "b": "entangle"
+  },
+  {
+   "a": "cibei",
+   "b": "align"
+  },
+  {
+   "a": "cibei",
+   "b": "selfmodel"
+  },
+  {
+   "a": "zhengnian",
+   "b": "plastic"
+  },
+  {
+   "a": "zhengnian",
+   "b": "consciousness"
+  },
+  {
+   "a": "kong",
+   "b": "yuanqi"
+  },
+  {
+   "a": "yuanqi",
+   "b": "wuwo"
+  },
+  {
+   "a": "wuwo",
+   "b": "wuchang"
+  },
+  {
+   "a": "yuanqi",
+   "b": "indra"
+  },
+  {
+   "a": "wuwo",
+   "b": "cibei"
+  },
+  {
+   "a": "weishi",
+   "b": "wuwo"
+  },
+  {
+   "a": "emergence",
+   "b": "consciousness"
+  }
+ ]
+}
