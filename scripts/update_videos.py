@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""每日匯入「恆易坐標視界」新影片：讀 RSS → 合併 data/videos.json（永不刪除）→ 依關鍵字標到問答與地圖 → 有變更才升級 sw.js 快取版本。"""
+"""每日匯入「恆易座標視界」新影片：讀 RSS → 合併 data/videos.json（永不刪除）→ 依關鍵字標到問答與地圖 → 有變更才升級 sw.js 快取版本。"""
 import json, re, sys, urllib.request, xml.etree.ElementTree as ET, os
 CH = "UCx01p-nB9wSd85kWWRlhcXw"
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
