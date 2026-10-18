@@ -1,7 +1,5 @@
 {
- "channel": "https://www.youtube.com/@jameshuang484",
- "channelId": "UCx01p-nB9wSd85kWWRlhcXw",
- "fetched": "2026-10-13",
+ "fetched": "2026-10-18",
  "videos": [
   {
    "id": "DXQ6r1GOiCk",
@@ -19,7 +17,41 @@
     "indra",
     "wuwo",
     "selfmodel"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "Nod1wEgwFsQ",
+   "title": "驚人的航空數據：新加坡的國際航空樞紐 #航空 #新加坡 #數據",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Nod1wEgwFsQ",
+   "published": "2026-10-16T16:00:29+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/Nod1wEgwFsQ/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "9xD1Tu4m2Es",
+   "title": "新加坡的「開掛」秘訣：資源整合的極致 #商業分析 #新加坡 #職場",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/9xD1Tu4m2Es",
+   "published": "2026-10-16T12:00:30+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/9xD1Tu4m2Es/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "KDTnc-TxXps",
+   "title": "日企和印企闹翻了 为什么要去新加坡打官司？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/KDTnc-TxXps",
+   "published": "2026-10-16T12:00:27+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/KDTnc-TxXps/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "7EY7pbJ6o_o",
@@ -35,7 +67,19 @@
    ],
    "nodes": [
     "cibei"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "tnM8WkhJiZM",
+   "title": "別再只看表面：新加坡經濟正在發生什麼？ #新加坡 #趨勢 #投資",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/tnM8WkhJiZM",
+   "published": "2026-10-15T13:00:01+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/tnM8WkhJiZM/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "yrkEC5pmfVo",
@@ -53,7 +97,8 @@
     "wuwo",
     "cibei",
     "indra"
-   ]
+   ],
+   "channel": "hengyi"
   },
   {
    "id": "CWg0nquc8y0",
@@ -70,7 +115,8 @@
    "nodes": [
     "selfmodel",
     "wuwo"
-   ]
+   ],
+   "channel": "hengyi"
   },
   {
    "id": "DHhJtJ_WRKw",
@@ -84,7 +130,30 @@
    ],
    "nodes": [
     "indra"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "teEsJaU1o_M",
+   "title": "承认错误：新加坡经济转型的勇气",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/teEsJaU1o_M",
+   "published": "2026-10-15T05:30:35+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/teEsJaU1o_M/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "u_j-lm-OvG4",
+   "title": "國家機器如何運作？新加坡的變通之道 #新加坡 #政治 #經濟",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/u_j-lm-OvG4",
+   "published": "2026-10-15T03:00:34+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/u_j-lm-OvG4/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "YXR4RSRVH9c",
@@ -100,7 +169,8 @@
    ],
    "nodes": [
     "indra"
-   ]
+   ],
+   "channel": "hengyi"
   },
   {
    "id": "A9WOtAczKb4",
@@ -116,7 +186,19 @@
    ],
    "nodes": [
     "align"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "Hb2iWa8onIk",
+   "title": "曾经的“新加坡奇迹” 为何好日子突然不再天经地义？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Hb2iWa8onIk",
+   "published": "2026-10-14T10:30:07+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/Hb2iWa8onIk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "tVxKqLoQG-M",
@@ -134,7 +216,8 @@
     "cibei",
     "selfmodel",
     "wuwo"
-   ]
+   ],
+   "channel": "hengyi"
   },
   {
    "id": "7zlJec_frGE",
@@ -151,7 +234,41 @@
    "nodes": [
     "selfmodel",
     "wuwo"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "YI6eqCrDEt0",
+   "title": "退休金根本不够养老？新加坡式福利的残酷真相",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/YI6eqCrDEt0",
+   "published": "2026-10-14T09:00:15+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/YI6eqCrDEt0/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "Ax4Q8DuytaY",
+   "title": "快狠准！新加坡如何扭转经济局势",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Ax4Q8DuytaY",
+   "published": "2026-10-14T05:00:28+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/Ax4Q8DuytaY/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "VNC-8Y5zEgk",
+   "title": "为什么新加坡很少有本土品牌？残酷的资源分配真相",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/VNC-8Y5zEgk",
+   "published": "2026-10-13T14:30:01+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/VNC-8Y5zEgk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "FjH5pdMbbuI",
@@ -167,7 +284,8 @@
    ],
    "nodes": [
     "indra"
-   ]
+   ],
+   "channel": "hengyi"
   },
   {
    "id": "5pTBIKzIQeI",
@@ -185,7 +303,19 @@
     "indra",
     "selfmodel",
     "wuwo"
-   ]
+   ],
+   "channel": "hengyi"
+  },
+  {
+   "id": "mWznGnavorg",
+   "title": "不再是奇蹟：新加坡經濟正在經歷什麼？ #新加坡 #經濟 #投資",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/mWznGnavorg",
+   "published": "2026-10-13T11:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/mWznGnavorg/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "zFr8Aigr0LI",
@@ -195,6 +325,18 @@
    "published": "2026-10-13T09:00:23+00:00",
    "thumbnail": "https://i3.ytimg.com/vi/zFr8Aigr0LI/hqdefault.jpg",
    "qa": [],
+   "nodes": [],
+   "channel": "hengyi"
+  },
+  {
+   "id": "sCkioH-ZQZE",
+   "title": "1985年新加坡：一場改變國家命運的危機 #新加坡 #歷史 #政治風雲",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/sCkioH-ZQZE",
+   "published": "2026-10-13T05:00:17+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/sCkioH-ZQZE/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
    "nodes": []
   },
   {
@@ -203,7 +345,19 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/OVmeo4HJw1o",
    "published": "2026-10-12T12:00:25+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/OVmeo4HJw1o/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/OVmeo4HJw1o/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "EOLOdJw-iuk",
+   "title": "新加坡獨立以來首度負成長！一夕之間，「不敗神話」碎了一地｜新加坡故事 EP06（下）",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=EOLOdJw-iuk",
+   "published": "2026-10-12T12:00:07+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/EOLOdJw-iuk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "S_Tl4sjyi6U",
@@ -211,7 +365,8 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/S_Tl4sjyi6U",
    "published": "2026-10-12T11:00:14+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/S_Tl4sjyi6U/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/S_Tl4sjyi6U/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "uR96ZuhXzWU",
@@ -219,7 +374,8 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/uR96ZuhXzWU",
    "published": "2026-10-12T10:30:37+00:00",
-   "thumbnail": "https://i2.ytimg.com/vi/uR96ZuhXzWU/hqdefault.jpg"
+   "thumbnail": "https://i2.ytimg.com/vi/uR96ZuhXzWU/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "CZQHH0op7zQ",
@@ -227,7 +383,41 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/CZQHH0op7zQ",
    "published": "2026-10-12T10:00:38+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/CZQHH0op7zQ/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/CZQHH0op7zQ/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "XtHj_I5_ZCQ",
+   "title": "国家机器的冷酷：从不守旧 马上改",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/XtHj_I5_ZCQ",
+   "published": "2026-10-11T12:00:38+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/XtHj_I5_ZCQ/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "EBDms5HeNnk",
+   "title": "李光耀：用高薪換取國家清廉的代價 #政治 #新加坡 #李光耀",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/EBDms5HeNnk",
+   "published": "2026-10-10T06:00:18+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/EBDms5HeNnk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "0j8sKEPFUxk",
+   "title": "別在新加坡挑戰法律！貪污的代價你付不起 #新加坡 #反腐 #職場生存",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/0j8sKEPFUxk",
+   "published": "2026-10-10T02:00:24+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/0j8sKEPFUxk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "5x14KuavxiM",
@@ -235,7 +425,41 @@
    "type": "video",
    "url": "https://www.youtube.com/watch?v=5x14KuavxiM",
    "published": "2026-10-09T09:00:11+00:00",
-   "thumbnail": "https://i2.ytimg.com/vi/5x14KuavxiM/hqdefault.jpg"
+   "thumbnail": "https://i2.ytimg.com/vi/5x14KuavxiM/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "TeGQG5r6kM8",
+   "title": "新加坡公務員制度：菁英中的菁英 #新加坡 #公務員 #體制",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/TeGQG5r6kM8",
+   "published": "2026-10-08T15:00:36+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/TeGQG5r6kM8/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "6xzt48HacB0",
+   "title": "新加坡模式：為何廉潔是國家存亡的關鍵？ #新加坡 #經濟 #地緣政治",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/6xzt48HacB0",
+   "published": "2026-10-08T15:00:07+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/6xzt48HacB0/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "m6Th_zn60Pw",
+   "title": "別再羨慕新加坡的清廉，這才是他們成功的代價 #新加坡 #政治 #真相",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/m6Th_zn60Pw",
+   "published": "2026-10-08T14:00:26+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/m6Th_zn60Pw/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "vCmtvPSVWss",
@@ -243,7 +467,30 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/vCmtvPSVWss",
    "published": "2026-10-08T11:30:27+00:00",
-   "thumbnail": "https://i3.ytimg.com/vi/vCmtvPSVWss/hqdefault.jpg"
+   "thumbnail": "https://i3.ytimg.com/vi/vCmtvPSVWss/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "ZoZ0ap-EtM0",
+   "title": "這才是新加坡政府穩固的真正原因 #新加坡 #房產 #政治",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/ZoZ0ap-EtM0",
+   "published": "2026-10-08T11:00:37+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/ZoZ0ap-EtM0/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "phfICCp8YBg",
+   "title": "新加坡反貪局：權力大到總理也管不了？ #新加坡 #政治 #冷知識",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/phfICCp8YBg",
+   "published": "2026-10-07T13:00:14+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/phfICCp8YBg/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "38eCNDzRZQQ",
@@ -251,7 +498,8 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/38eCNDzRZQQ",
    "published": "2026-10-07T10:00:27+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/38eCNDzRZQQ/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/38eCNDzRZQQ/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "pWxyKNSyMpM",
@@ -259,7 +507,8 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/pWxyKNSyMpM",
    "published": "2026-10-07T10:00:21+00:00",
-   "thumbnail": "https://i1.ytimg.com/vi/pWxyKNSyMpM/hqdefault.jpg"
+   "thumbnail": "https://i1.ytimg.com/vi/pWxyKNSyMpM/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "jnHV5fm3HeI",
@@ -267,7 +516,8 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/jnHV5fm3HeI",
    "published": "2026-10-07T10:00:01+00:00",
-   "thumbnail": "https://i3.ytimg.com/vi/jnHV5fm3HeI/hqdefault.jpg"
+   "thumbnail": "https://i3.ytimg.com/vi/jnHV5fm3HeI/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "SY0rzf6i170",
@@ -275,7 +525,8 @@
    "type": "video",
    "url": "https://www.youtube.com/watch?v=SY0rzf6i170",
    "published": "2026-10-07T09:00:08+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/SY0rzf6i170/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/SY0rzf6i170/hqdefault.jpg",
+   "channel": "hengyi"
   },
   {
    "id": "oeZaHYcGAgI",
@@ -283,7 +534,30 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/oeZaHYcGAgI",
    "published": "2026-10-07T07:00:19+00:00",
-   "thumbnail": "https://i4.ytimg.com/vi/oeZaHYcGAgI/hqdefault.jpg"
+   "thumbnail": "https://i4.ytimg.com/vi/oeZaHYcGAgI/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "RthPEcfuYbo",
+   "title": "別小看新加坡的清廉，這背後代價巨大 #新加坡 #真相 #時事",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/RthPEcfuYbo",
+   "published": "2026-10-06T15:00:20+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/RthPEcfuYbo/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "swtKz3n-u0M",
+   "title": "廉潔竟是國家資產？新加坡的生存法則 #新加坡 #經濟 #冷知識",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/swtKz3n-u0M",
+   "published": "2026-10-06T11:44:37+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/swtKz3n-u0M/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "aJ-nlbaw6CU",
@@ -291,259 +565,682 @@
    "type": "short",
    "url": "https://www.youtube.com/shorts/aJ-nlbaw6CU",
    "published": "2026-10-06T07:00:07+00:00",
-   "thumbnail": "https://i2.ytimg.com/vi/aJ-nlbaw6CU/hqdefault.jpg"
+   "thumbnail": "https://i2.ytimg.com/vi/aJ-nlbaw6CU/hqdefault.jpg",
+   "channel": "hengyi"
+  },
+  {
+   "id": "brhW_6f_1-k",
+   "title": "一個貧窮的小島城市，怎麼把自己接上全世界？｜新加坡故事 EP06（上）",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=brhW_6f_1-k",
+   "published": "2026-10-06T06:00:27+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/brhW_6f_1-k/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "CMxI4zVJ388",
    "title": "怎樣讓一滴水永遠不乾？把自己交出去的智慧",
    "type": "short",
    "url": "https://www.youtube.com/shorts/CMxI4zVJ388",
-   "thumbnail": "https://i.ytimg.com/vi/CMxI4zVJ388/hqdefault.jpg"
-  },
-  {
-   "id": "yHAqD89JgQc",
-   "title": "財富的真相：不是擁有多少 而是能照顧多少人",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/yHAqD89JgQc",
-   "thumbnail": "https://i.ytimg.com/vi/yHAqD89JgQc/hqdefault.jpg"
-  },
-  {
-   "id": "x99J539_7ok",
-   "title": "頂級領導力：對事嚴格 對人溫暖 #領導力 #職場",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/x99J539_7ok",
-   "thumbnail": "https://i.ytimg.com/vi/x99J539_7ok/hqdefault.jpg"
-  },
-  {
-   "id": "YE4Es8szN6U",
-   "title": "是領導還是暴君？差別只在這一點",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/YE4Es8szN6U",
-   "thumbnail": "https://i.ytimg.com/vi/YE4Es8szN6U/hqdefault.jpg"
-  },
-  {
-   "id": "5wHHnzMi6vA",
-   "title": "看透情緒的真相：你不是浪花 而是大海",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/5wHHnzMi6vA",
-   "thumbnail": "https://i.ytimg.com/vi/5wHHnzMi6vA/hqdefault.jpg"
-  },
-  {
-   "id": "lj_alaINZRQ",
-   "title": "比指甲還小的晶片 為何能裝下你幾千個瞬間？",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/lj_alaINZRQ",
-   "thumbnail": "https://i.ytimg.com/vi/lj_alaINZRQ/hqdefault.jpg"
-  },
-  {
-   "id": "orabpbeGEgA",
-   "title": "一念之間：你的憤怒 往往源於對真相的誤解",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/orabpbeGEgA",
-   "thumbnail": "https://i.ytimg.com/vi/orabpbeGEgA/hqdefault.jpg"
-  },
-  {
-   "id": "RnMeY5sr8NM",
-   "title": "被別車瞬間火大？佛陀教你如何平息內心風暴",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/RnMeY5sr8NM",
-   "thumbnail": "https://i.ytimg.com/vi/RnMeY5sr8NM/hqdefault.jpg"
-  },
-  {
-   "id": "anSl5HBR2yA",
-   "title": "364天的認知錯覺：你看到的「真相」其實只是生存工具？ #個人成長 #科普",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/anSl5HBR2yA",
-   "thumbnail": "https://i.ytimg.com/vi/anSl5HBR2yA/hqdefault.jpg"
-  },
-  {
-   "id": "gAvjRW0_2vs",
-   "title": "你眼中的世界是真的嗎？揭開真相的兩條路",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/gAvjRW0_2vs",
-   "thumbnail": "https://i.ytimg.com/vi/gAvjRW0_2vs/hqdefault.jpg"
-  },
-  {
-   "id": "1zQf2cMW0hA",
-   "title": "我們都是盲人？科學與修行的終點 竟是同一個？",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/1zQf2cMW0hA",
-   "thumbnail": "https://i.ytimg.com/vi/1zQf2cMW0hA/hqdefault.jpg"
-  },
-  {
-   "id": "CJtAipixZUs",
-   "title": "你的細胞說明書 正掌握在你自己手裡",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/CJtAipixZUs",
-   "thumbnail": "https://i.ytimg.com/vi/CJtAipixZUs/hqdefault.jpg"
-  },
-  {
-   "id": "5G8oUkzOpzE",
-   "title": "「業力」不是宿命 而是你此刻的選擇",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/5G8oUkzOpzE",
-   "thumbnail": "https://i.ytimg.com/vi/5G8oUkzOpzE/hqdefault.jpg"
-  },
-  {
-   "id": "KdwSoYPgFOk",
-   "title": "你不是任人擺布的浮萍 你可以跳出紙面",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/KdwSoYPgFOk",
-   "thumbnail": "https://i.ytimg.com/vi/KdwSoYPgFOk/hqdefault.jpg"
-  },
-  {
-   "id": "IWzSDYZon4I",
-   "title": "你的體重不是肉做的？揭秘質量背後的能量1",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/IWzSDYZon4I",
-   "thumbnail": "https://i.ytimg.com/vi/IWzSDYZon4I/hqdefault.jpg"
-  },
-  {
-   "id": "x44qkTgx9wA",
-   "title": "低維看是奇蹟 高維看是常識：跳出思維的牆",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/x44qkTgx9wA",
-   "thumbnail": "https://i.ytimg.com/vi/x44qkTgx9wA/hqdefault.jpg"
-  },
-  {
-   "id": "_Oj4XwcR-lo",
-   "title": "每天忍受的焦慮 其實只是因為你困在紙上了",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/_Oj4XwcR-lo",
-   "thumbnail": "https://i.ytimg.com/vi/_Oj4XwcR-lo/hqdefault.jpg"
-  },
-  {
-   "id": "N90PV0fWdHE",
-   "title": "如果沒有人看著 宇宙還真實存在嗎？",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/N90PV0fWdHE",
-   "thumbnail": "https://i.ytimg.com/vi/N90PV0fWdHE/hqdefault.jpg"
-  },
-  {
-   "id": "IRIYPKDdqyg",
-   "title": "宇宙的歷史 是靠人類的意識凝固出來的？ #科普 #個人成長",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/IRIYPKDdqyg",
-   "thumbnail": "https://i.ytimg.com/vi/IRIYPKDdqyg/hqdefault.jpg"
-  },
-  {
-   "id": "xvxV-18PgRE",
-   "title": "你以為你摸到了桌子？科學告訴你這只是錯覺！",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/xvxV-18PgRE",
-   "thumbnail": "https://i.ytimg.com/vi/xvxV-18PgRE/hqdefault.jpg"
-  },
-  {
-   "id": "sHbco1WNo3w",
-   "title": "這棵樹不是樹 是李光耀「看透人心」的頂級戰略 #領導力 #個人成長",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/sHbco1WNo3w",
-   "thumbnail": "https://i.ytimg.com/vi/sHbco1WNo3w/hqdefault.jpg"
-  },
-  {
-   "id": "aQKYENH1Qlg",
-   "title": "把「大夢想」縮小到碗裡 才是頂級的說服力",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/aQKYENH1Qlg",
-   "thumbnail": "https://i.ytimg.com/vi/aQKYENH1Qlg/hqdefault.jpg"
-  },
-  {
-   "id": "pz8ipVg_1go",
-   "title": "別再死命講道理！頂級高手都懂的大腦「留白」溝通術 #溝通技巧 #個人成長",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/pz8ipVg_1go",
-   "thumbnail": "https://i.ytimg.com/vi/pz8ipVg_1go/hqdefault.jpg"
-  },
-  {
-   "id": "_2AVDFSUxEE",
-   "title": "宇宙起點的終極真相：物理學、資訊論與老子的跨時空對話",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/_2AVDFSUxEE",
-   "thumbnail": "https://i.ytimg.com/vi/_2AVDFSUxEE/hqdefault.jpg"
-  },
-  {
-   "id": "U1_XJ3aIRqs",
-   "title": "物理學家的死胡同？我們真的了解宇宙的起點嗎？ #science",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/U1_XJ3aIRqs",
-   "thumbnail": "https://i.ytimg.com/vi/U1_XJ3aIRqs/hqdefault.jpg"
-  },
-  {
-   "id": "5bdJiqsydAs",
-   "title": "大爆炸之前是什麼？用一隻螞蟻帶你看清宇宙真相",
-   "type": "short",
-   "url": "https://www.youtube.com/shorts/5bdJiqsydAs",
-   "thumbnail": "https://i.ytimg.com/vi/5bdJiqsydAs/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/CMxI4zVJ388/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-06T02:00:30+00:00"
   },
   {
    "id": "-XPB7pXfSuY",
    "title": "功德如何不流失？解開「迴向」的神秘面紗｜善財童子五十三參 EP03",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=-XPB7pXfSuY",
-   "thumbnail": "https://i.ytimg.com/vi/-XPB7pXfSuY/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/-XPB7pXfSuY/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-05T00:00:09+00:00"
+  },
+  {
+   "id": "yHAqD89JgQc",
+   "title": "財富的真相：不是擁有多少 而是能照顧多少人",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/yHAqD89JgQc",
+   "thumbnail": "https://i.ytimg.com/vi/yHAqD89JgQc/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-04T07:00:26+00:00"
+  },
+  {
+   "id": "x99J539_7ok",
+   "title": "頂級領導力：對事嚴格 對人溫暖 #領導力 #職場",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/x99J539_7ok",
+   "thumbnail": "https://i.ytimg.com/vi/x99J539_7ok/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-04T01:30:23+00:00"
   },
   {
    "id": "t5vcNxxshMI",
    "title": "對事嚴格，對人溫暖：善財童子如何學會真正的領導？｜善財童子五十三參 EP02",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=t5vcNxxshMI",
-   "thumbnail": "https://i.ytimg.com/vi/t5vcNxxshMI/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/t5vcNxxshMI/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-03T11:00:07+00:00"
+  },
+  {
+   "id": "YE4Es8szN6U",
+   "title": "是領導還是暴君？差別只在這一點",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/YE4Es8szN6U",
+   "thumbnail": "https://i.ytimg.com/vi/YE4Es8szN6U/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-03T00:30:11+00:00"
   },
   {
    "id": "3RLrTIITunU",
    "title": "老師叫他跳進火坑，他真的跳了｜善財童子五十三參 EP01",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=3RLrTIITunU",
-   "thumbnail": "https://i.ytimg.com/vi/3RLrTIITunU/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/3RLrTIITunU/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-10-01T12:00:09+00:00"
+  },
+  {
+   "id": "LTIsFyWPv_I",
+   "title": "台積電出海是掏空台灣？矽盾其實是這樣運作的 #shorts",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/LTIsFyWPv_I",
+   "published": "2026-09-29T04:00:03+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/LTIsFyWPv_I/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "ZerIZrUzNDY",
+   "title": "老戰友涉貪，李光耀拒絕見他——隨後他服藥自盡｜新加坡故事 EP05",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ZerIZrUzNDY",
+   "published": "2026-09-28T12:00:07+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/ZerIZrUzNDY/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "YIbC_w1yiBM",
+   "title": "保台不靠大軍艦？不對稱防禦才是台灣的活路 #shorts",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/YIbC_w1yiBM",
+   "published": "2026-09-28T04:00:23+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/YIbC_w1yiBM/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "6zgaUhAlWMA",
+   "title": "不能只靠美國，台灣手上還有哪四張王牌？ #shorts",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/6zgaUhAlWMA",
+   "published": "2026-09-27T04:00:13+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/6zgaUhAlWMA/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "NdrAKodhGcc",
+   "title": "42.4% 台灣人不信美國會出兵？川普讓信任感正在消失 #shorts",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/NdrAKodhGcc",
+   "published": "2026-09-26T04:00:01+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/NdrAKodhGcc/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "rtD-Ha-gnOs",
+   "title": "美國新孤立主義來了，台灣的四張王牌是什麼？｜美國新孤立主義（下）",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=rtD-Ha-gnOs",
+   "published": "2026-09-25T14:00:09+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/rtD-Ha-gnOs/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "rCBASs6SGPA",
+   "title": "美國新孤立主義來了，台灣的護身符還在嗎？｜美國新孤立主義（上）",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=rCBASs6SGPA",
+   "published": "2026-09-23T12:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/rCBASs6SGPA/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "Ng68b4PX0TA",
+   "title": "發糖果 vs 顧全大局：這次選舉你要選哪一種人？",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=Ng68b4PX0TA",
+   "published": "2026-09-22T00:00:09+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/Ng68b4PX0TA/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "ibryUQ6p5Gk",
+   "title": "一夜 1.6 萬人無家可歸之後，新加坡怎麼用組屋把家焊成國｜新加坡故事 EP04",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ibryUQ6p5Gk",
+   "published": "2026-09-21T00:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/ibryUQ6p5Gk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "k0rXafcUb-w",
+   "title": "新加坡真的從一無所有起家？被忽略的檔案修正了這個說法｜新加坡故事 EP03",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=k0rXafcUb-w",
+   "published": "2026-09-14T12:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/k0rXafcUb-w/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "w9tVSbyx42U",
+   "title": "新加坡建國故事，教科書可能只講對了一半｜新加坡故事 EP02",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=w9tVSbyx42U",
+   "published": "2026-09-07T12:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/w9tVSbyx42U/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "5wHHnzMi6vA",
+   "title": "看透情緒的真相：你不是浪花 而是大海",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/5wHHnzMi6vA",
+   "thumbnail": "https://i.ytimg.com/vi/5wHHnzMi6vA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-09-06T12:00:17+00:00"
+  },
+  {
+   "id": "lj_alaINZRQ",
+   "title": "比指甲還小的晶片 為何能裝下你幾千個瞬間？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/lj_alaINZRQ",
+   "thumbnail": "https://i.ytimg.com/vi/lj_alaINZRQ/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-09-06T12:00:10+00:00"
+  },
+  {
+   "id": "orabpbeGEgA",
+   "title": "一念之間：你的憤怒 往往源於對真相的誤解",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/orabpbeGEgA",
+   "thumbnail": "https://i.ytimg.com/vi/orabpbeGEgA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-09-05T12:00:33+00:00"
+  },
+  {
+   "id": "RnMeY5sr8NM",
+   "title": "被別車瞬間火大？佛陀教你如何平息內心風暴",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/RnMeY5sr8NM",
+   "thumbnail": "https://i.ytimg.com/vi/RnMeY5sr8NM/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-09-05T11:00:11+00:00"
   },
   {
    "id": "90ql39SsLN4",
    "title": "塞車那口氣，華嚴經兩千五百年前就講過。",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=90ql39SsLN4",
-   "thumbnail": "https://i.ytimg.com/vi/90ql39SsLN4/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/90ql39SsLN4/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-09-02T13:30:06+00:00"
+  },
+  {
+   "id": "KlcDWOJXG9U",
+   "title": "新加坡被迫的獨立！｜新加坡故事 EP01",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=KlcDWOJXG9U",
+   "published": "2026-08-31T12:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/KlcDWOJXG9U/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "anSl5HBR2yA",
+   "title": "364天的認知錯覺：你看到的「真相」其實只是生存工具？ #個人成長 #科普",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/anSl5HBR2yA",
+   "thumbnail": "https://i.ytimg.com/vi/anSl5HBR2yA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-24T08:00:33+00:00"
+  },
+  {
+   "id": "gAvjRW0_2vs",
+   "title": "你眼中的世界是真的嗎？揭開真相的兩條路",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/gAvjRW0_2vs",
+   "thumbnail": "https://i.ytimg.com/vi/gAvjRW0_2vs/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-24T06:00:23+00:00"
+  },
+  {
+   "id": "1zQf2cMW0hA",
+   "title": "我們都是盲人？科學與修行的終點 竟是同一個？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/1zQf2cMW0hA",
+   "thumbnail": "https://i.ytimg.com/vi/1zQf2cMW0hA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-24T04:00:12+00:00"
   },
   {
    "id": "znUrzYHJGMA",
    "title": "科學也有摸不到的地方？一支影片看懂探索宇宙實相的兩條路",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=znUrzYHJGMA",
-   "thumbnail": "https://i.ytimg.com/vi/znUrzYHJGMA/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/znUrzYHJGMA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-23T12:00:06+00:00"
+  },
+  {
+   "id": "CJtAipixZUs",
+   "title": "你的細胞說明書 正掌握在你自己手裡",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/CJtAipixZUs",
+   "thumbnail": "https://i.ytimg.com/vi/CJtAipixZUs/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-21T14:30:34+00:00"
+  },
+  {
+   "id": "5G8oUkzOpzE",
+   "title": "「業力」不是宿命 而是你此刻的選擇",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/5G8oUkzOpzE",
+   "thumbnail": "https://i.ytimg.com/vi/5G8oUkzOpzE/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-21T14:00:04+00:00"
   },
   {
    "id": "UESypItvPhM",
    "title": "打坐真的能改寫命運？神經科學家研究五萬小時禪修僧人，發現了什麼？",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=UESypItvPhM",
-   "thumbnail": "https://i.ytimg.com/vi/UESypItvPhM/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/UESypItvPhM/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-21T12:00:06+00:00"
+  },
+  {
+   "id": "KdwSoYPgFOk",
+   "title": "你不是任人擺布的浮萍 你可以跳出紙面",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/KdwSoYPgFOk",
+   "thumbnail": "https://i.ytimg.com/vi/KdwSoYPgFOk/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-19T13:00:04+00:00"
+  },
+  {
+   "id": "IWzSDYZon4I",
+   "title": "你的體重不是肉做的？揭秘質量背後的能量1",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/IWzSDYZon4I",
+   "thumbnail": "https://i.ytimg.com/vi/IWzSDYZon4I/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-19T12:00:19+00:00"
   },
   {
    "id": "zXUANAnZ52M",
    "title": "You've Never Actually \"Touched\" Anything — The Most Shocking Truth in Quantum Physics",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=zXUANAnZ52M",
-   "thumbnail": "https://i.ytimg.com/vi/zXUANAnZ52M/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/zXUANAnZ52M/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-18T16:00:06+00:00"
+  },
+  {
+   "id": "x44qkTgx9wA",
+   "title": "低維看是奇蹟 高維看是常識：跳出思維的牆",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/x44qkTgx9wA",
+   "thumbnail": "https://i.ytimg.com/vi/x44qkTgx9wA/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-18T13:00:17+00:00"
+  },
+  {
+   "id": "_Oj4XwcR-lo",
+   "title": "每天忍受的焦慮 其實只是因為你困在紙上了",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/_Oj4XwcR-lo",
+   "thumbnail": "https://i.ytimg.com/vi/_Oj4XwcR-lo/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-18T12:00:18+00:00"
+  },
+  {
+   "id": "N90PV0fWdHE",
+   "title": "如果沒有人看著 宇宙還真實存在嗎？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/N90PV0fWdHE",
+   "thumbnail": "https://i.ytimg.com/vi/N90PV0fWdHE/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-17T15:30:00+00:00"
+  },
+  {
+   "id": "IRIYPKDdqyg",
+   "title": "宇宙的歷史 是靠人類的意識凝固出來的？ #科普 #個人成長",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/IRIYPKDdqyg",
+   "thumbnail": "https://i.ytimg.com/vi/IRIYPKDdqyg/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-17T15:00:08+00:00"
+  },
+  {
+   "id": "xvxV-18PgRE",
+   "title": "你以為你摸到了桌子？科學告訴你這只是錯覺！",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/xvxV-18PgRE",
+   "thumbnail": "https://i.ytimg.com/vi/xvxV-18PgRE/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-17T14:00:34+00:00"
+  },
+  {
+   "id": "sHbco1WNo3w",
+   "title": "這棵樹不是樹 是李光耀「看透人心」的頂級戰略 #領導力 #個人成長",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/sHbco1WNo3w",
+   "thumbnail": "https://i.ytimg.com/vi/sHbco1WNo3w/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-08T14:00:38+00:00"
+  },
+  {
+   "id": "aQKYENH1Qlg",
+   "title": "把「大夢想」縮小到碗裡 才是頂級的說服力",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/aQKYENH1Qlg",
+   "thumbnail": "https://i.ytimg.com/vi/aQKYENH1Qlg/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-08T14:00:36+00:00"
+  },
+  {
+   "id": "pz8ipVg_1go",
+   "title": "別再死命講道理！頂級高手都懂的大腦「留白」溝通術 #溝通技巧 #個人成長",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/pz8ipVg_1go",
+   "thumbnail": "https://i.ytimg.com/vi/pz8ipVg_1go/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-08T14:00:28+00:00"
   },
   {
    "id": "uk22iflAyBM",
    "title": "為什麼有些人一開口，大家就心甘情願跟隨？",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=uk22iflAyBM",
-   "thumbnail": "https://i.ytimg.com/vi/uk22iflAyBM/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/uk22iflAyBM/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-08T12:00:06+00:00"
+  },
+  {
+   "id": "_2AVDFSUxEE",
+   "title": "宇宙起點的終極真相：物理學、資訊論與老子的跨時空對話",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/_2AVDFSUxEE",
+   "thumbnail": "https://i.ytimg.com/vi/_2AVDFSUxEE/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-05T03:00:20+00:00"
+  },
+  {
+   "id": "U1_XJ3aIRqs",
+   "title": "物理學家的死胡同？我們真的了解宇宙的起點嗎？ #science",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/U1_XJ3aIRqs",
+   "thumbnail": "https://i.ytimg.com/vi/U1_XJ3aIRqs/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-05T02:37:28+00:00"
+  },
+  {
+   "id": "5bdJiqsydAs",
+   "title": "大爆炸之前是什麼？用一隻螞蟻帶你看清宇宙真相",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/5bdJiqsydAs",
+   "thumbnail": "https://i.ytimg.com/vi/5bdJiqsydAs/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-05T02:31:09+00:00"
   },
   {
    "id": "WCDpEYsO8h0",
    "title": "用一把尺去量水的溫度——這就是科學卡在奇點的原因",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=WCDpEYsO8h0",
-   "thumbnail": "https://i.ytimg.com/vi/WCDpEYsO8h0/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/WCDpEYsO8h0/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-08-03T12:00:36+00:00"
+  },
+  {
+   "id": "IJWebsOvgUc",
+   "title": "無人機真的能救台灣,還是我們想得太簡單了?",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=IJWebsOvgUc",
+   "published": "2026-07-28T13:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/IJWebsOvgUc/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
   },
   {
    "id": "sIZHm0gkCAg",
    "title": "大爆炸之前是甚麼？",
    "type": "video",
    "url": "https://www.youtube.com/watch?v=sIZHm0gkCAg",
-   "thumbnail": "https://i.ytimg.com/vi/sIZHm0gkCAg/hqdefault.jpg"
+   "thumbnail": "https://i.ytimg.com/vi/sIZHm0gkCAg/hqdefault.jpg",
+   "channel": "hengyi",
+   "published": "2026-07-08T12:00:06+00:00"
+  },
+  {
+   "id": "hgvSKwpM9AY",
+   "title": "臺灣如何生存？揭秘新加坡讓大國禮讓三分的「毒蝦理論」",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/hgvSKwpM9AY",
+   "published": "2026-07-06T01:38:51+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/hgvSKwpM9AY/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "FvVYTjk6MoA",
+   "title": "一個分裂的臺灣無法生存！美智庫點出朝野對話的兩大生存共識",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/FvVYTjk6MoA",
+   "published": "2026-07-05T14:00:12+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/FvVYTjk6MoA/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "g2OkI9YFxjs",
+   "title": "台灣不是棋子─如何借鑒新加坡，維持生存。",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=g2OkI9YFxjs",
+   "published": "2026-07-05T12:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/g2OkI9YFxjs/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "7F8Zyw06xyM",
+   "title": "2026年6月25日",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/7F8Zyw06xyM",
+   "published": "2026-06-24T16:26:21+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/7F8Zyw06xyM/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "q8pXb4nQxBc",
+   "title": "為什麼總覺得是別人影響我們？翻轉兩岸交流的被動視角 #電影 #台灣史 #情感",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/q8pXb4nQxBc",
+   "published": "2026-06-24T14:00:11+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/q8pXb4nQxBc/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "ndhKuvGSO3k",
+   "title": "兩岸民間交流，我們該擔心的，難道不是低估了自己？交流，我們在擔心什麼？",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=ndhKuvGSO3k",
+   "published": "2026-06-24T13:00:06+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/ndhKuvGSO3k/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "N6xVTuCpB5Y",
+   "title": "為什麼我們不認為我們可以影響他們？重拾台灣的文化自信",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/N6xVTuCpB5Y",
+   "published": "2026-06-24T11:00:12+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/N6xVTuCpB5Y/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "_j8xgazeNzY",
+   "title": "川普「暫緩軍售」背後：台灣年輕世代的生存焦慮與新策略",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=_j8xgazeNzY",
+   "published": "2026-06-22T16:00:05+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/_j8xgazeNzY/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "n0Iy9Ch8HZs",
+   "title": "為什麼台灣人習以為常的「這日常」連外國人甚至大陸人都會震撼？解讀台灣真正的文明靈魂。",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=n0Iy9Ch8HZs",
+   "published": "2026-06-17T14:21:56+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/n0Iy9Ch8HZs/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "sgblB_4aOwc",
+   "title": "2026年6月14日",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/sgblB_4aOwc",
+   "published": "2026-06-14T01:42:43+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/sgblB_4aOwc/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "u7C2icsRNhk",
+   "title": "2026年6月14日",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/u7C2icsRNhk",
+   "published": "2026-06-14T01:40:09+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/u7C2icsRNhk/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "H32pgHfvjTU",
+   "title": "醫療不只是技術：台灣日常裡看見的文明溫度",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/H32pgHfvjTU",
+   "published": "2026-06-13T12:38:07+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/H32pgHfvjTU/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "iugFjrf0LoE",
+   "title": "台灣文化在哪？捷運站裡的細節，看見文明的重量",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/iugFjrf0LoE",
+   "published": "2026-06-13T12:34:02+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/iugFjrf0LoE/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "QEwv5-0qtVo",
+   "title": "台灣新主流：從情緒政治到風險管理",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/QEwv5-0qtVo",
+   "published": "2026-06-09T10:29:28+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/QEwv5-0qtVo/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "3VpvIUYLHmU",
+   "title": "務實與和平",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=3VpvIUYLHmU",
+   "published": "2026-05-15T16:03:25+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/3VpvIUYLHmU/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  },
+  {
+   "id": "YlTXN9McxeA",
+   "title": "新加坡發展模式對台灣的啓示",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=YlTXN9McxeA",
+   "published": "2026-05-15T16:00:21+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/YlTXN9McxeA/hqdefault.jpg",
+   "channel": "xiaoguo",
+   "qa": [],
+   "nodes": []
+  }
+ ],
+ "channels": [
+  {
+   "key": "hengyi",
+   "id": "UCx01p-nB9wSd85kWWRlhcXw",
+   "name": "恆易座標視界",
+   "short": "恆易",
+   "handle": "@jameshuang484",
+   "url": "https://www.youtube.com/@jameshuang484",
+   "tagMode": "normal"
+  },
+  {
+   "key": "xiaoguo",
+   "id": "UCLJCDTHiqcD79zDbD8F-0Eg",
+   "name": "小國大棋",
+   "short": "小國大棋",
+   "handle": "@jameshuang4096",
+   "url": "https://www.youtube.com/@jameshuang4096",
+   "tagMode": "strict"
   }
  ]
 }

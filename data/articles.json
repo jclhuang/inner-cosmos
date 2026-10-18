@@ -1,0 +1,29 @@
+[
+ {
+  "id": "sample-intro",
+  "kind": "md",
+  "title": "【範例】為什麼做「內觀與宇宙」？",
+  "date": "2026-10-18",
+  "summary": "範例文章：AI 與科學進步飛快，卻有些迷失方向；把佛學當成「向內看的哲學」，也許能幫我們想清楚要往哪裡去。",
+  "tags": [
+   "範例",
+   "初衷",
+   "AI",
+   "佛學與科學"
+  ],
+  "sample": true,
+  "md": "content/articles/sample-intro.md",
+  "nodes": [
+   "align",
+   "cibei",
+   "zhengnian",
+   "kong"
+  ],
+  "qa": [
+   "alignment",
+   "religion",
+   "prove"
+  ],
+  "video": "1zQf2cMW0hA"
+ }
+]

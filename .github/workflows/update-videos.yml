@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-concurrency: { group: update-videos, cancel-in-progress: false }
+concurrency: { group: site-bot, cancel-in-progress: false }
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -14,7 +14,7 @@ jobs:
         with: { fetch-depth: 0 }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - name: 讀 RSS 並合併
+      - name: 讀兩個頻道的 RSS 並合併（只收已公開影片）
         run: python scripts/update_videos.py
       - name: 有變更才 commit；50 天沒動靜就 keepalive
         run: |
@@ -23,12 +23,12 @@ jobs:
           if ! git diff --quiet; then
             git add -A data sw.js
             git commit -m "自動匯入新影片 $(date -u +%F)"
-            git push
+            git pull --rebase && git push
           else
             last=$(git log -1 --format=%ct); now=$(date +%s)
             if [ $(( (now-last)/86400 )) -ge 50 ]; then
               git commit --allow-empty -m "keepalive：避免排程因 60 天無活動被停用"
-              git push
+              git pull --rebase && git push
             else
               echo "沒有新影片"
             fi

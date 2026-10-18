@@ -1,5 +1,5 @@
 const CFG=window.APP_CONFIG;document.title=CFG.name;appname.textContent=CFG.name;tagline.textContent=CFG.tagline;
-let DAYS=[],MAP={nodes:[],edges:[]},QA=[],VIDS=[],MED=[];const $=s=>document.querySelector(s);
+let DAYS=[],MAP={nodes:[],edges:[]},QA=[],VIDS=[],MED=[],CHS=[],ARTS=[];const $=s=>document.querySelector(s);
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const store={get:k=>JSON.parse(localStorage.getItem(k)||'null'),set:(k,v)=>localStorage.setItem(k,JSON.stringify(v))};
 function todayIdx(){const d=Math.floor((new Date().setHours(0,0,0,0)-new Date(CFG.startDate+'T00:00:00'))/864e5);return d<0?1:(d%DAYS.length)+1}
@@ -34,17 +34,43 @@ function openNode(id){const n=node(id),nb=MAP.edges.filter(e=>e.a===id||e.b===id
 sheetbody.innerHTML=`<h2>${esc(n.label)}</h2><div class="legend" style="text-align:left">${n.type==='b'?'佛學概念':'科學／AI'}</div><div class="card"><h3>說明與對照理由</h3>${esc(n.explain)}</div><div class="card"><h3>${n.type==='b'?'經文':'參考來源'}</h3>${esc(n.quote)}</div><div class="card"><h3>想一想</h3><div class="q">${esc(n.question)}</div></div>
 <div class="card"><h3>連結概念</h3>${chips(nb)}</div>${n.days.length?`<div class="card"><h3>相關每日一偈</h3><div class="chips">${n.days.map(d=>`<button class="chip" data-day="${d}">第${d}天・${esc(DAYS[d-1].title)}</button>`).join('')}</div></div>`:''}
 <div class="card"><h3>相關影片</h3>${n.youtube?`<a class="btn" href="${esc(n.youtube)}" target="_blank" rel="noopener">▶ ${esc((VIDS.find(v=>v.id===n.videoId)||{}).title||'觀看影片')}</a>`:`<a class="btn ghost" href="${CFG.channel}" target="_blank" rel="noopener">▶ 前往「${esc(CFG.channelName)}」頻道</a>`}</div>`;sheet.hidden=false}
-function go(v,arg){sheet.hidden=true;document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===(v==='day'?'today':v)));
-if(v==='today'){renderDay(todayIdx());history.replaceState(0,'','#today')}else if(v==='day'){renderDay(arg);history.replaceState(0,'','#day/'+arg)}else if(v==='cal'){renderCal();history.replaceState(0,'','#cal')}else if(v==='qa'){renderQA(arg);history.replaceState(0,'','#qa')}else if(v==='med'){renderMed();history.replaceState(0,'','#med')}else{renderMap();history.replaceState(0,'','#map'+(arg?'/'+arg:''));if(arg)openNode(arg)}scrollTo(0,0)}
-document.addEventListener('click',e=>{const t=e.target.closest('[data-day],[data-node],[data-v],[data-ask]');if(!t)return;if(t.dataset.ask!=null){ask(t.dataset.ask);return}if(t.dataset.v)go(t.dataset.v);else if(t.dataset.day)go('day',+t.dataset.day);else if(t.dataset.qa){}else{if(view.querySelector('#svg'))openNode(t.dataset.node);else go('map',t.dataset.node)}});
+function go(v,arg){sheet.hidden=true;document.querySelectorAll('nav button').forEach(b=>b.classList.toggle('on',b.dataset.v===({day:'today',article:'articles'}[v]||v)));
+if(v==='today'){renderDay(todayIdx());history.replaceState(0,'','#today')}else if(v==='day'){renderDay(arg);history.replaceState(0,'','#day/'+arg)}else if(v==='cal'){renderCal();history.replaceState(0,'','#cal')}else if(v==='videos'){renderVideos(arg);history.replaceState(0,'','#videos'+(arg?'/'+arg:''))}else if(v==='articles'){renderArticles();history.replaceState(0,'','#articles')}else if(v==='article'){renderArticle(arg);history.replaceState(0,'','#article/'+encodeURIComponent(arg))}else if(v==='qa'){renderQA(arg);history.replaceState(0,'','#qa')}else if(v==='med'){renderMed();history.replaceState(0,'','#med')}else{renderMap();history.replaceState(0,'','#map'+(arg?'/'+arg:''));if(arg)openNode(arg)}scrollTo(0,0)}
+document.addEventListener('click',e=>{const t=e.target.closest('[data-day],[data-node],[data-v],[data-ask],[data-art]');if(!t)return;if(t.dataset.art){go('article',t.dataset.art);return}if(t.dataset.ask!=null){ask(t.dataset.ask);return}if(t.dataset.v)go(t.dataset.v);else if(t.dataset.day)go('day',+t.dataset.day);else if(t.dataset.qa){}else{if(view.querySelector('#svg'))openNode(t.dataset.node);else go('map',t.dataset.node)}});
 $('.close').onclick=()=>sheet.hidden=true;sheet.onclick=e=>{if(e.target===sheet)sheet.hidden=true};
-function route(){const h=location.hash.slice(1).split('/');if(h[0]==='day')go('day',+h[1]);else if(h[0]==='map')go('map',h[1]);else if(h[0]==='cal')go('cal');else if(h[0]==='qa')go('qa');else if(h[0]==='med')go('med');else go('today')}
+function route(){const h=location.hash.slice(1).split('/');if(h[0]==='day')go('day',+h[1]);else if(h[0]==='map')go('map',h[1]);else if(h[0]==='cal')go('cal');else if(h[0]==='qa')go('qa');else if(h[0]==='videos')go('videos',h[1]);else if(h[0]==='articles')go('articles');else if(h[0]==='article')go('article',decodeURIComponent(h[1]||''));else if(h[0]==='med')go('med');else go('today')}
 window.addEventListener('hashchange',route);
-const J=u=>fetch(u).then(r=>r.json());Promise.all([J('data/days.json'),J('data/map.json'),J('data/qa.json'),J('data/videos.json'),J('data/meditation.json')]).then(([d,m,q,v,md])=>{DAYS=d;MAP=m;QA=q;VIDS=v.videos;MED=md;buildIndex();route()});
+const J=u=>fetch(u).then(r=>r.json());Promise.all([J('data/days.json'),J('data/map.json'),J('data/qa.json'),J('data/videos.json'),J('data/meditation.json'),J('data/articles.json').catch(()=>[])]).then(([d,m,q,v,md,ar])=>{DAYS=d;MAP=m;QA=q;VIDS=v.videos;CHS=v.channels||[];MED=md;ARTS=ar;buildIndex();route()});
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
 
-function latestHTML(){const L=VIDS.filter(v=>v.published).sort((a,b)=>b.published.localeCompare(a.published)).slice(0,5);if(!L.length)return'';
-return `<div class="card"><h3>最新影片・${esc(CFG.channelName)}</h3><div class="vrow">${L.map(v=>`<a class="vcard" href="${v.url}" target="_blank" rel="noopener"><img loading="lazy" src="${v.thumbnail}" alt=""><span>${esc(v.title.replace(/#\S+/g,'').trim())}</span><small>${v.published.slice(0,10)}${v.type==='short'?'・Shorts':''}</small></a>`).join('')}</div><a class="vlink" href="${CFG.channel}" target="_blank" rel="noopener">看全部影片 ›</a></div>`}
+const chOf=v=>CHS.find(c=>c.key===v.channel)||{short:'',name:'',key:''};
+const vcard=v=>`<a class="vcard" href="${v.url}" target="_blank" rel="noopener"><img loading="lazy" src="${v.thumbnail}" alt=""><span>${esc(v.title.replace(/#\S+/g,'').trim())}</span><small><b class="badge ch-${chOf(v).key}">${esc(chOf(v).short)}</b> ${(v.published||'').slice(0,10)}${v.type==='short'?'・Shorts':''}</small></a>`;
+const sortedV=()=>VIDS.filter(v=>v.published).sort((a,b)=>b.published.localeCompare(a.published));
+function latestHTML(){const L=sortedV().slice(0,5);if(!L.length)return'';
+return `<div class="card"><h3>最新影片</h3><div class="vrow">${L.map(vcard).join('')}</div><button class="vlink" data-v="videos">看全部影片 ›</button></div>`}
+function renderVideos(f){f=f||'all';const L=sortedV().filter(v=>f==='all'||v.channel===f);
+view.innerHTML=`<h2>全部影片</h2><div class="chips tabs">${[['all','全部']].concat(CHS.map(c=>[c.key,c.name])).map(([k,n])=>`<button class="chip ${k===f?'sel':''}" data-vf="${k}">${esc(n)}（${k==='all'?VIDS.length:VIDS.filter(v=>v.channel===k).length}）</button>`).join('')}</div>
+<div class="vgrid">${L.map(vcard).join('')}</div>${CHS.filter(c=>f==='all'||c.key===f).map(c=>`<a class="vlink" href="${c.url}" target="_blank" rel="noopener">▶ 前往「${esc(c.name)}」頻道</a>`).join('')}`;
+document.querySelectorAll('[data-vf]').forEach(b=>b.onclick=()=>{renderVideos(b.dataset.vf);history.replaceState(0,'','#videos/'+b.dataset.vf)})}
+/* ===== 文章與簡報 ===== */
+const kindLabel={md:'文章',pdf:'PDF',slides:'簡報',link:'連結',file:'檔案'};
+function renderArticles(t){const tags=[...new Set(ARTS.flatMap(a=>a.tags))];const L=ARTS.filter(a=>!t||a.tags.includes(t));
+view.innerHTML=`<h2>文章與簡報</h2>${tags.length?`<div class="chips tabs"><button class="chip ${!t?'sel':''}" data-at="">全部</button>${tags.map(x=>`<button class="chip ${x===t?'sel':''}" data-at="${esc(x)}">${esc(x)}</button>`).join('')}</div>`:''}
+${L.length?L.map(a=>`<div class="card acard" data-art="${esc(a.id)}">${a.thumb?`<img src="${a.thumb}" alt="" loading="lazy">`:''}<div><div class="ameta"><b class="badge">${kindLabel[a.kind]||'文章'}</b> ${esc(a.date)}${a.sample?' ・<span class="warn">範例</span>':''}</div><div class="atitle">${esc(a.title)}</div><div class="asum">${esc(a.summary||'')}</div><div class="chips">${a.tags.map(x=>`<span class="tag">#${esc(x)}</span>`).join('')}</div></div></div>`).join(''):'<div class="card">還沒有文章。</div>'}`;
+document.querySelectorAll('[data-at]').forEach(b=>b.onclick=()=>renderArticles(b.dataset.at||''))}
+async function renderArticle(id){const a=ARTS.find(x=>x.id===id);if(!a){renderArticles();return}
+const v=a.video&&VIDS.find(x=>x.id===a.video);
+view.innerHTML=`<button class="chip" data-v="articles">‹ 文章列表</button><article class="card art"><div class="ameta"><b class="badge">${kindLabel[a.kind]||'文章'}</b> ${esc(a.date)}${a.sample?' ・<span class="warn">範例</span>':''}</div><h2>${esc(a.title)}</h2><div class="chips">${a.tags.map(x=>`<span class="tag">#${esc(x)}</span>`).join('')}</div>
+<div id="artbody">${a.md?'載入中…':`<p>${esc(a.summary||'')}</p>`}</div>
+${a.embed?`<div class="embed"><iframe src="${a.embed}" allowfullscreen loading="lazy"></iframe></div>`:''}
+${a.pdf&&!a.md&&a.thumb?`<a href="${a.pdf}" target="_blank" rel="noopener"><img class="pthumb" src="${a.thumb}" alt="PDF 第一頁"></a>`:''}
+<div>${a.pdf?`<a class="btn" href="${a.pdf}" target="_blank" rel="noopener">開啟 PDF</a><a class="btn ghost" href="${a.pdf}" download>下載 PDF</a>`:''}${a.pptx?`<a class="btn ghost" href="${a.pptx}" download>下載 PPTX</a>`:''}${a.docx?`<a class="btn ghost" href="${a.docx}" download>下載 Word</a>`:''}${a.link?`<a class="btn ghost" href="${esc(a.link)}" target="_blank" rel="noopener">開啟原始連結</a>`:''}</div></article>
+${a.nodes.length?`<div class="card"><h3>相關概念</h3>${chips(a.nodes)}</div>`:''}
+${a.qa.length?`<div class="card"><h3>相關問答</h3><div class="chips">${a.qa.map(i=>QA.find(q=>q.id===i)).filter(Boolean).map(q=>`<button class="chip" data-ask="${esc(q.question)}">${esc(q.question)}</button>`).join('')}</div></div>`:''}
+${v?`<div class="card"><h3>相關影片</h3><div class="vrow">${vcard(v)}</div></div>`:''}`;
+if(a.md){try{let t=await fetch(a.md).then(r=>r.text());t=t.replace(/^---\s*\n[\s\S]*?\n---\s*\n?/,'').replace(/^\s*# .*\n/,'');const el=$('#artbody');if(!el)return;el.innerHTML=marked.parse(t);
+const base=a.md.replace(/[^/]+$/,'');el.querySelectorAll('img').forEach(i=>{const s=i.getAttribute('src');if(s&&!/^(https?:|data:|\/)/.test(s))i.src=base+s;i.loading='lazy'});
+el.querySelectorAll('a[href^="http"]').forEach(x=>{x.target='_blank';x.rel='noopener'});el.querySelectorAll('script,iframe,object').forEach(x=>x.remove())}catch(e){$('#artbody').textContent='文章載入失敗（離線時需先開啟過一次）。'}}}
 /* ===== 智慧問答（離線檢索；未來可在 answerBackend 換成 LLM） ===== */
 const SYN=[["人工智慧","ai"],["人工智能","ai"],["chatgpt","ai"],["機器人","ai"],["打坐","冥想"],["禪修","冥想"],["靜坐","冥想"],["坐禪","冥想"],["多元宇宙","平行宇宙"],["多重宇宙","平行宇宙"],["平行世界","平行宇宙"],["轉世","輪迴"],["投胎","輪迴"],["業力","業"],["死後","死亡"],["往生","死亡"],["焦躁","焦慮"],["緊張","焦慮"],["發脾氣","生氣"],["憤怒","生氣"],["靈魂","意識"],["腦袋","大腦"],["量子力學","量子"],["空性","空"]];
 let IDX=[];
