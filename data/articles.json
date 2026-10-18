@@ -25,5 +25,68 @@
    "prove"
   ],
   "video": "1zQf2cMW0hA"
+ },
+ {
+  "id": "測試-Word-文章",
+  "kind": "md",
+  "title": "測試文章：Word 匯入",
+  "date": "2026-10-18",
+  "summary": "測試文章：Word 匯入 這是一篇從 Word 轉換的測試文章，談到量子糾纏與緣起，將被刪除。",
+  "tags": [],
+  "sample": false,
+  "md": "content/articles/測試-Word-文章.md",
+  "docx": "content/files/測試-Word-文章.docx",
+  "nodes": [
+   "entangle",
+   "yuanqi"
+  ],
+  "qa": [
+   "entangle",
+   "quantumempty"
+  ]
+ },
+ {
+  "id": "file-測試PDF",
+  "kind": "pdf",
+  "title": "測試PDF",
+  "date": "2026-10-18",
+  "summary": "測試 PDF 冥想與大腦的測試 PDF，將被刪除。",
+  "tags": [
+   "PDF"
+  ],
+  "sample": false,
+  "pdf": "content/files/測試PDF.pdf",
+  "thumb": "content/files/thumbs/測試PDF.png",
+  "nodes": [
+   "zhengnian",
+   "selfmodel"
+  ],
+  "qa": [
+   "medbrain",
+   "brainmind",
+   "medstress"
+  ]
+ },
+ {
+  "id": "file-測試簡報",
+  "kind": "pdf",
+  "title": "測試簡報",
+  "date": "2026-10-18",
+  "summary": "測試簡報：緣起與系統論 • 這是自動轉檔測試，將被刪除。",
+  "tags": [
+   "PDF"
+  ],
+  "sample": false,
+  "pdf": "content/files/測試簡報.pdf",
+  "pptx": "content/files/測試簡報.pptx",
+  "thumb": "content/files/thumbs/測試簡報.png",
+  "nodes": [
+   "emergence",
+   "yuanqi"
+  ],
+  "qa": [
+   "entangle",
+   "emergence"
+  ]
  }
 ]
