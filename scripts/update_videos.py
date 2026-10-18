@@ -13,22 +13,35 @@ UA = {"User-Agent": "Mozilla/5.0", "Accept-Language": "en"}
 
 def load(f): return json.load(open(P(f), encoding="utf-8"))
 def save(f, d): open(P(f), "w", encoding="utf-8").write(json.dumps(d, ensure_ascii=False, indent=1) + "\n")
-def get(url, tries=5):
+def get(url, tries=5, wait=3):
     for i in range(tries):  # YouTube RSS 偶爾隨機回 404/5xx，重試
         try: return urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30).read()
         except Exception as e:
-            err = e; time.sleep(3 + 3 * i)
+            err = e; time.sleep(wait + i)
     raise err
 
 def fetch_feed(ch):
     out = []
-    for e in ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={ch['id']}")).findall("a:entry", NS):
+    for e in ET.fromstring(get(f"https://www.youtube.com/feeds/videos.xml?channel_id={ch['id']}", tries=12, wait=2)).findall("a:entry", NS):
         vid = e.find("yt:videoId", NS).text; link = e.find("a:link", NS).get("href", ""); g = e.find("m:group", NS)
         th = g.find("m:thumbnail", NS) if g is not None else None
         out.append(dict(id=vid, title=e.find("a:title", NS).text or "", type="short" if "/shorts/" in link else "video",
                         url=link or f"https://www.youtube.com/watch?v={vid}", published=e.find("a:published", NS).text,
                         thumbnail=th.get("url") if th is not None else f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg",
                         description=(g.find("m:description", NS).text or "") if g is not None else ""))
+    return out
+
+def fallback_list(ch, n=15):
+    """RSS 常隨機 404：改用 yt-dlp 讀頻道最新 n 支（影片＋Shorts）。"""
+    out = []
+    for tab in ("videos", "shorts"):
+        r = subprocess.run(["yt-dlp", "--flat-playlist", "-I", f"1:{n}", "--print", "%(id)s\t%(title)s", f"{ch['url']}/{tab}"], capture_output=True, text=True, timeout=180)
+        for l in r.stdout.splitlines():
+            vid, title = l.split("\t", 1)
+            out.append(dict(id=vid, title=title, type="short" if tab == "shorts" else "video",
+                            url=(f"https://www.youtube.com/shorts/{vid}" if tab == "shorts" else f"https://www.youtube.com/watch?v={vid}"),
+                            published=None, thumbnail=f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg", description=""))
+    if not out: raise RuntimeError("yt-dlp 也拿不到清單")
     return out
 
 def public_status(vid):
@@ -112,18 +125,22 @@ def main():
                                published=d, thumbnail=f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"), ch, ctx); changed = True
     for ch in chans:
         try: feed = fetch_feed(ch)
-        except Exception as e: print("RSS failed for", ch["name"], e); continue
+        except Exception as e:
+            print("RSS failed for", ch["name"], e, "→ 改用 yt-dlp")
+            try: feed = fetch_feed_fb = fallback_list(ch)
+            except Exception as e2: print("fallback failed", e2); continue
         for f in feed:
             v = byid.get(f["id"])
             if v is None:
-                if datetime.fromisoformat(f["published"]) > now: print("skip future", f["id"]); continue
+                if f["published"] and datetime.fromisoformat(f["published"]) > now: print("skip future", f["id"]); continue
                 ok, d = public_status(f["id"])
                 if not ok: print("skip (premiere/not public or unknown)", f["id"], f["title"][:30]); continue
-                if d and len(d) > 10: f["published"] = utc(d)  # 首播：用實際公開時間
+                if d and (len(d) > 10 or not f["published"]): f["published"] = utc(d)
+                if not f["published"]: print("skip (no date)", f["id"]); continue  # 首播：用實際公開時間
                 add_video(f, ch, ctx); changed = True
             else:
                 for k in ("published", "thumbnail"):
-                    if not v.get(k): v[k] = f[k]; changed = True
+                    if not v.get(k) and f.get(k): v[k] = f[k]; changed = True
     for v in vids:
         if not v.get("thumbnail"): v["thumbnail"] = f"https://i.ytimg.com/vi/{v['id']}/hqdefault.jpg"; changed = True
     if changed: finish(data, qa, mp)

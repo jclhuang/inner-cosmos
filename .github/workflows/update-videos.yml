@@ -14,6 +14,8 @@ jobs:
         with: { fetch-depth: 0 }
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
+      - name: 安裝 yt-dlp（RSS 失敗時的備援）
+        run: pip install -q yt-dlp
       - name: 讀兩個頻道的 RSS 並合併（只收已公開影片）
         run: python scripts/update_videos.py
       - name: 有變更才 commit；50 天沒動靜就 keepalive
