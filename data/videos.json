@@ -1,6 +1,104 @@
 {
- "fetched": "2026-10-18",
+ "fetched": "2026-10-22",
  "videos": [
+  {
+   "id": "URDbrsuBDeE",
+   "title": "把家務變成修行：洗碗的秘密 #心靈成長 #當下 #平靜",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/URDbrsuBDeE",
+   "published": "2026-10-21T10:00:30+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/URDbrsuBDeE/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "plasticity",
+    "time",
+    "howmed"
+   ],
+   "nodes": [
+    "zhengnian"
+   ]
+  },
+  {
+   "id": "-ORDcZwSCxY",
+   "title": "最累的不是工作而是演戏：维摩诘经给上班族的处方",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/-ORDcZwSCxY",
+   "published": "2026-10-20T12:00:25+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/-ORDcZwSCxY/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "time",
+    "plasticity"
+   ],
+   "nodes": []
+  },
+  {
+   "id": "hy48EzG4cLU",
+   "title": "同一个世界 不同的心态",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/hy48EzG4cLU",
+   "published": "2026-10-20T09:00:29+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/hy48EzG4cLU/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "howmed",
+    "medbrain",
+    "time"
+   ],
+   "nodes": []
+  },
+  {
+   "id": "W7fCRGxQ74k",
+   "title": "停止給人貼標籤，你會看見新世界 #人際溝通 #職場",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/W7fCRGxQ74k",
+   "published": "2026-10-20T07:00:02+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/W7fCRGxQ74k/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "compassion",
+    "aiethics",
+    "freewill"
+   ],
+   "nodes": [
+    "cibei"
+   ]
+  },
+  {
+   "id": "01cU1UaZG_0",
+   "title": "真正的修行，藏在日常瑣事裡 #恆易座標 #靈性覺醒 #生活禪",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/01cU1UaZG_0",
+   "published": "2026-10-19T15:30:34+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/01cU1UaZG_0/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "touch",
+    "impermanence",
+    "perception"
+   ],
+   "nodes": [
+    "wuchang"
+   ]
+  },
+  {
+   "id": "ogjALG8Aa6g",
+   "title": "心亂了，去哪裡修行都沒用 #心靈 #禪意 #修心",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/ogjALG8Aa6g",
+   "published": "2026-10-19T15:15:02+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/ogjALG8Aa6g/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "time",
+    "noself",
+    "plasticity"
+   ],
+   "nodes": [
+    "wuwo",
+    "selfmodel"
+   ]
+  },
   {
    "id": "DXQ6r1GOiCk",
    "title": "善財童子的圓滿修煉，這就是真相 #佛教 #善財童子 #心靈成長",
