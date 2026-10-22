@@ -160,7 +160,7 @@ def main():
                 ok, d = decide(f, ch["url"]); f.pop("views", None)
                 if not ok: print("skip (premiere/not public or unknown)", f["id"], f["title"][:30]); continue
                 if d and (len(d) > 10 or not f["published"]): f["published"] = utc(d)
-                if not f["published"]: print("skip (no date)", f["id"]); continue  # 首播：用實際公開時間
+                if not f["published"]: f["published"] = now.isoformat(); f["dateApprox"] = True  # 抓不到日期：用發現時間（之後 RSS 有日期也不覆蓋）  # 首播：用實際公開時間
                 add_video(f, ch, ctx); changed = True
             else:
                 for k in ("published", "thumbnail"):
