@@ -7,12 +7,12 @@
 
 ## 自動匯入新影片
 - `.github/workflows/update-videos.yml`：每天台北 03:00（19:00 UTC）執行，也可在 Actions 頁手動 Run。
-- 頻道清單在 `data/channels.json`（目前：恆易座標視界、小國大棋）。要加頻道就在這裡加一行。
+- 頻道清單在 `data/channels.json`（目前只有恆易座標視界；小國大棋已獨立成 https://jclhuang.github.io/xiaoguo-daqi/ ）。
 - `scripts/update_videos.py`：讀每個頻道的 RSS（各最新 15 支），合併進 data/videos.json（不刪舊的），每支影片有 `channel` 欄位。
   - 只收「已公開」影片：預約首播（尚未播出）、未公開或私人影片會被跳過，等公開後的下一次執行才加入。
-  - 用 data/qa.json 關鍵字 + data/keywords.json 自動標籤；小國大棋用嚴格模式（只看標題、門檻較高），大多數不會被標。
+  - 用 data/qa.json 關鍵字 + data/keywords.json 自動標籤。
   - 有變更才 bump sw.js 版本並 commit。
-  - 整個頻道補齊（需 yt-dlp）：`python scripts/update_videos.py --backfill xiaoguo`
+  - 整個頻道補齊（需 yt-dlp）：`python scripts/update_videos.py --backfill hengyi`
 - 自動標籤不準時：直接改 data/videos.json 該影片的 qa/nodes，或 data/qa.json 的 videos 列表；增補 data/keywords.json 可改善之後的標籤。
 - GitHub 會在 60 天沒有 repo 活動時停用排程；workflow 在 50 天無 commit 時會自動做一個 keepalive 空 commit。
 

@@ -44,12 +44,12 @@ const J=u=>fetch(u).then(r=>r.json());Promise.all([J('data/days.json'),J('data/m
 if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
 
 const chOf=v=>CHS.find(c=>c.key===v.channel)||{short:'',name:'',key:''};
-const vcard=v=>`<a class="vcard" href="${v.url}" target="_blank" rel="noopener"><img loading="lazy" src="${v.thumbnail}" alt=""><span>${esc(v.title.replace(/#\S+/g,'').trim())}</span><small><b class="badge ch-${chOf(v).key}">${esc(chOf(v).short)}</b> ${(v.published||'').slice(0,10)}${v.type==='short'?'・Shorts':''}</small></a>`;
+const vcard=v=>`<a class="vcard" href="${v.url}" target="_blank" rel="noopener"><img loading="lazy" src="${v.thumbnail}" alt=""><span>${esc(v.title.replace(/#\S+/g,'').trim())}</span><small>${CHS.length>1?`<b class="badge ch-${chOf(v).key}">${esc(chOf(v).short)}</b> `:''}${(v.published||'').slice(0,10)}${v.type==='short'?'・Shorts':''}</small></a>`;
 const sortedV=()=>VIDS.filter(v=>v.published).sort((a,b)=>b.published.localeCompare(a.published));
 function latestHTML(){const L=sortedV().slice(0,5);if(!L.length)return'';
 return `<div class="card"><h3>最新影片</h3><div class="vrow">${L.map(vcard).join('')}</div><button class="vlink" data-v="videos">看全部影片 ›</button></div>`}
 function renderVideos(f){f=f||'all';const L=sortedV().filter(v=>f==='all'||v.channel===f);
-view.innerHTML=`<h2>全部影片</h2><div class="chips tabs">${[['all','全部']].concat(CHS.map(c=>[c.key,c.name])).map(([k,n])=>`<button class="chip ${k===f?'sel':''}" data-vf="${k}">${esc(n)}（${k==='all'?VIDS.length:VIDS.filter(v=>v.channel===k).length}）</button>`).join('')}</div>
+view.innerHTML=`<h2>全部影片</h2><div class="chips tabs" ${CHS.length>1?'':'hidden'}>${[['all','全部']].concat(CHS.map(c=>[c.key,c.name])).map(([k,n])=>`<button class="chip ${k===f?'sel':''}" data-vf="${k}">${esc(n)}（${k==='all'?VIDS.length:VIDS.filter(v=>v.channel===k).length}）</button>`).join('')}</div>
 <div class="vgrid">${L.map(vcard).join('')}</div>${CHS.filter(c=>f==='all'||c.key===f).map(c=>`<a class="vlink" href="${c.url}" target="_blank" rel="noopener">▶ 前往「${esc(c.name)}」頻道</a>`).join('')}`;
 document.querySelectorAll('[data-vf]').forEach(b=>b.onclick=()=>{renderVideos(b.dataset.vf);history.replaceState(0,'','#videos/'+b.dataset.vf)})}
 /* ===== 文章與簡報 ===== */

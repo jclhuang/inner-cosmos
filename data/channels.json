@@ -1,4 +1,11 @@
 [
- {"key":"hengyi","id":"UCx01p-nB9wSd85kWWRlhcXw","name":"恆易座標視界","short":"恆易","handle":"@jameshuang484","url":"https://www.youtube.com/@jameshuang484","tagMode":"normal"},
- {"key":"xiaoguo","id":"UCLJCDTHiqcD79zDbD8F-0Eg","name":"小國大棋","short":"小國大棋","handle":"@jameshuang4096","url":"https://www.youtube.com/@jameshuang4096","tagMode":"strict"}
+ {
+  "key": "hengyi",
+  "id": "UCx01p-nB9wSd85kWWRlhcXw",
+  "name": "恆易座標視界",
+  "short": "恆易",
+  "handle": "@jameshuang484",
+  "url": "https://www.youtube.com/@jameshuang484",
+  "tagMode": "normal"
+ }
 ]
