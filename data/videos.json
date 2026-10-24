@@ -1,6 +1,54 @@
 {
- "fetched": "2026-10-23",
+ "fetched": "2026-10-24",
  "videos": [
+  {
+   "id": "x8-XDK88hR8",
+   "title": "別再對抗壓力了！學會維摩詰的「空」：現代人的心靈處方",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/x8-XDK88hR8",
+   "published": "2026-10-24T14:00:01+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/x8-XDK88hR8/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "medstress",
+    "noself",
+    "plasticity"
+   ],
+   "nodes": [
+    "wuwo",
+    "selfmodel"
+   ]
+  },
+  {
+   "id": "vzYwU0zs_i0",
+   "title": "人生卡關時，試試「空」的智慧 #人生 #智慧 #佛學",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/vzYwU0zs_i0",
+   "published": "2026-10-24T11:00:30+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vzYwU0zs_i0/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "medstress",
+    "time",
+    "plasticity"
+   ],
+   "nodes": []
+  },
+  {
+   "id": "tx7-bS4hUWw",
+   "title": "蘇東坡的智慧：如何在大起大落中保持內心平靜 #人生哲學 #蘇東坡 #心靈成長",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/tx7-bS4hUWw",
+   "published": "2026-10-24T10:00:11+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/tx7-bS4hUWw/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "plasticity",
+    "touch",
+    "religion"
+   ],
+   "nodes": []
+  },
   {
    "id": "rtUlsodLmZM",
    "title": "一句話都沒說，卻贏了全場。維摩詰經（下 ）新配音版",
