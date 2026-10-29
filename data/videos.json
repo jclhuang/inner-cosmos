@@ -1,6 +1,40 @@
 {
- "fetched": "2026-10-25",
+ "fetched": "2026-10-29",
  "videos": [
+  {
+   "id": "U26qDhU86Hw",
+   "title": "彩虹不是真的存在？量子物理給出的答案 #量子力學 #科學",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/U26qDhU86Hw",
+   "published": "2026-10-29T23:03:44.629073+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/U26qDhU86Hw/hqdefault.jpg",
+   "dateApprox": true,
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "entangle"
+   ]
+  },
+  {
+   "id": "yqIlTOLY6qg",
+   "title": "量子物理學家讀佛經，他發現了什麼？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/yqIlTOLY6qg",
+   "published": "2026-10-29T23:03:44.629073+00:00",
+   "thumbnail": "https://i.ytimg.com/vi/yqIlTOLY6qg/hqdefault.jpg",
+   "dateApprox": true,
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "entangle"
+   ]
+  },
   {
    "id": "moHLokpl8K8",
    "title": "芥子纳须弥，你的心够大吗？#智慧 #生活哲學 #shorts",
