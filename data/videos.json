@@ -1,6 +1,63 @@
 {
- "fetched": "2026-10-29",
+ "fetched": "2026-10-30",
  "videos": [
+  {
+   "id": "UkuWFkyTpTU",
+   "title": "量子力学与佛学的跨时空碰撞：物理学家读龙树菩萨",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/UkuWFkyTpTU",
+   "published": "2026-10-30T13:00:25+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/UkuWFkyTpTU/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "emergence",
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "kong",
+    "indra",
+    "entangle"
+   ]
+  },
+  {
+   "id": "iYkoTMe2NXc",
+   "title": "量子力學的诞生地：北海上一座光秃秃的小島",
+   "type": "video",
+   "url": "https://www.youtube.com/watch?v=iYkoTMe2NXc",
+   "published": "2026-10-30T11:00:09+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/iYkoTMe2NXc/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle",
+    "howmed"
+   ],
+   "nodes": [
+    "indra",
+    "entangle",
+    "holo"
+   ]
+  },
+  {
+   "id": "E50N9wqsp2E",
+   "title": "禅师为什么一直倒茶？这才是你无法进步的根本原因",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/E50N9wqsp2E",
+   "published": "2026-10-30T10:00:15+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/E50N9wqsp2E/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "emergence",
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "kong",
+    "indra",
+    "entangle"
+   ]
+  },
   {
    "id": "U26qDhU86Hw",
    "title": "彩虹不是真的存在？量子物理給出的答案 #量子力學 #科學",
