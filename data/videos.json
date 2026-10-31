@@ -1,6 +1,44 @@
 {
- "fetched": "2026-10-30",
+ "fetched": "2026-10-31",
  "videos": [
+  {
+   "id": "Z2GRMhwu-tA",
+   "title": "如果你拆掉自我 你还会剩下什么？",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Z2GRMhwu-tA",
+   "published": "2026-10-31T11:00:19+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/Z2GRMhwu-tA/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "entangle",
+    "quantumempty",
+    "noself"
+   ],
+   "nodes": [
+    "indra",
+    "entangle",
+    "selfmodel"
+   ]
+  },
+  {
+   "id": "DGA0qR5pL1E",
+   "title": "这杯咖啡真的苦吗？用第一性原理拆解现实",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/DGA0qR5pL1E",
+   "published": "2026-10-31T11:00:15+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/DGA0qR5pL1E/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "emergence",
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "kong",
+    "indra",
+    "entangle"
+   ]
+  },
   {
    "id": "UkuWFkyTpTU",
    "title": "量子力学与佛学的跨时空碰撞：物理学家读龙树菩萨",
