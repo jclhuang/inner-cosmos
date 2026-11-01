@@ -1,6 +1,44 @@
 {
- "fetched": "2026-10-31",
+ "fetched": "2026-11-01",
  "videos": [
+  {
+   "id": "0_1a0aWP06M",
+   "title": "用物理学拆解一杯咖啡的苦味 #第一性原理 #科学",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/0_1a0aWP06M",
+   "published": "2026-11-01T12:00:02+00:00",
+   "thumbnail": "https://i1.ytimg.com/vi/0_1a0aWP06M/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle",
+    "emptiness"
+   ],
+   "nodes": [
+    "kong",
+    "indra",
+    "entangle"
+   ]
+  },
+  {
+   "id": "m1iy1ENw5i0",
+   "title": "彩虹不是真的存在？量子物理給出的答案 #量子力學 #科學",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/m1iy1ENw5i0",
+   "published": "2026-11-01T11:00:29+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/m1iy1ENw5i0/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle",
+    "emptiness"
+   ],
+   "nodes": [
+    "kong",
+    "indra",
+    "entangle"
+   ]
+  },
   {
    "id": "Z2GRMhwu-tA",
    "title": "如果你拆掉自我 你还会剩下什么？",
