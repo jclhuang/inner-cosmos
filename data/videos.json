@@ -1,6 +1,44 @@
 {
- "fetched": "2026-11-01",
+ "fetched": "2026-11-03",
  "videos": [
+  {
+   "id": "S56VdrNQzSI",
+   "title": "用物理学拆解一杯咖啡的苦味 #第一性原理 #科学",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/S56VdrNQzSI",
+   "published": "2026-11-02T11:00:08+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/S56VdrNQzSI/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle",
+    "howmed"
+   ],
+   "nodes": [
+    "indra",
+    "entangle",
+    "holo"
+   ]
+  },
+  {
+   "id": "z4IRr1Pj6Ls",
+   "title": "用物理学拆解一杯咖啡的苦味 #第一性原理 #科学",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/z4IRr1Pj6Ls",
+   "published": "2026-11-02T10:30:28+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/z4IRr1Pj6Ls/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "quantumempty",
+    "entangle",
+    "howmed"
+   ],
+   "nodes": [
+    "indra",
+    "entangle",
+    "holo"
+   ]
+  },
   {
    "id": "0_1a0aWP06M",
    "title": "用物理学拆解一杯咖啡的苦味 #第一性原理 #科学",
