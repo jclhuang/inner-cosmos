@@ -1,6 +1,44 @@
 {
- "fetched": "2026-11-06",
+ "fetched": "2026-11-07",
  "videos": [
+  {
+   "id": "Oknd3bGlnpc",
+   "title": "宇宙是一座巨大的时钟？重新审视拆解思维的局限性",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Oknd3bGlnpc",
+   "published": "2026-11-07T11:30:24+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/Oknd3bGlnpc/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "emergence",
+    "noself",
+    "howmed"
+   ],
+   "nodes": [
+    "indra",
+    "selfmodel",
+    "wuwo"
+   ]
+  },
+  {
+   "id": "yFQNOf1QtHQ",
+   "title": "男人是什么时候变成爷爷的？一瞬间的身份转换",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/yFQNOf1QtHQ",
+   "published": "2026-11-07T02:00:30+00:00",
+   "thumbnail": "https://i2.ytimg.com/vi/yFQNOf1QtHQ/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "emergence",
+    "noself",
+    "howmed"
+   ],
+   "nodes": [
+    "indra",
+    "selfmodel",
+    "wuwo"
+   ]
+  },
   {
    "id": "L9I68rFmw8c",
    "title": "Are you really just a tiny screw? The answer from 1300 years ago.",
