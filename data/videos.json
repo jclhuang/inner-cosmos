@@ -1,6 +1,25 @@
 {
- "fetched": "2026-11-07",
+ "fetched": "2026-11-08",
  "videos": [
+  {
+   "id": "Z53G6cS0QVY",
+   "title": "金子就是理 狮子就是事：华严经的深邃智慧",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/Z53G6cS0QVY",
+   "published": "2026-11-08T07:00:29+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/Z53G6cS0QVY/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "entangle",
+    "religion",
+    "mindmade"
+   ],
+   "nodes": [
+    "yuanqi",
+    "indra",
+    "holo"
+   ]
+  },
   {
    "id": "Oknd3bGlnpc",
    "title": "宇宙是一座巨大的时钟？重新审视拆解思维的局限性",
