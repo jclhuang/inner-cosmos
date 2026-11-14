@@ -2,6 +2,37 @@
  "fetched": "2026-11-14",
  "videos": [
   {
+   "id": "vyjyMIPqkzs",
+   "title": "霍金曾因这个理论被“打脸”？黑洞研究背后的科学轶事",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/vyjyMIPqkzs",
+   "published": "2026-11-14T11:00:02+00:00",
+   "thumbnail": "https://i3.ytimg.com/vi/vyjyMIPqkzs/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "blackhole"
+   ],
+   "nodes": [
+    "holo"
+   ]
+  },
+  {
+   "id": "cO4axEMPQEA",
+   "title": "物理学家证明宇宙是一场投影？#宇宙 #shorts",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/cO4axEMPQEA",
+   "published": "2026-11-14T02:00:23+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/cO4axEMPQEA/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "hologram",
+    "perception"
+   ],
+   "nodes": [
+    "holo"
+   ]
+  },
+  {
    "id": "ySrr0XJkEKY",
    "title": "Indra's Web: The Universe in a Grain of Dust | Starting from a Grain of Dust EP3 Indra's Web",
    "type": "video",
