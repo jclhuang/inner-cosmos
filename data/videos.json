@@ -1,6 +1,25 @@
 {
- "fetched": "2026-11-24",
+ "fetched": "2026-11-25",
  "videos": [
+  {
+   "id": "WFu-EYDGNWc",
+   "title": "当古代哲学遇上现代物理",
+   "type": "short",
+   "url": "https://www.youtube.com/shorts/WFu-EYDGNWc",
+   "published": "2026-11-24T11:00:33+00:00",
+   "thumbnail": "https://i4.ytimg.com/vi/WFu-EYDGNWc/hqdefault.jpg",
+   "channel": "hengyi",
+   "qa": [
+    "mustard",
+    "quantumempty",
+    "entangle"
+   ],
+   "nodes": [
+    "indra",
+    "plastic",
+    "holo"
+   ]
+  },
   {
    "id": "uGg2nOxihy0",
    "title": "为什么宇宙的维度我们看不见？",
